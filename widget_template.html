@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>Widget Template — data-driven</title>
+<style>
+  :root{
+    --bg:#0b0d10; --panel:#12151a; --panel2:#171b21; --border:#232830;
+    --text:#e7eaee; --sub:#8a93a1; --green:#33c481; --red:#e5484d;
+    --amber:#e5a13d; --blue:#4e9bf0;
+  }
+  *{box-sizing:border-box;}
+  body{background:var(--bg);color:var(--text);font-family:'Segoe UI',system-ui,Arial,sans-serif;margin:0;padding:24px;direction:rtl;}
+  .wrap{max-width:900px;margin:0 auto;display:flex;flex-direction:column;gap:16px;}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:12px;padding:18px 20px;}
+  .header{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;}
+  .ticker{font-size:26px;font-weight:800;}
+  .exch{color:var(--sub);font-size:12.5px;}
+  .decision-badge{font-size:15px;font-weight:800;padding:7px 16px;border-radius:8px;border:1px solid;}
+  .decision-badge.buy{background:rgba(51,196,129,.15);color:var(--green);border-color:var(--green);}
+  .decision-badge.wait{background:rgba(78,155,240,.15);color:var(--blue);border-color:var(--blue);}
+  .decision-badge.watch{background:rgba(229,161,61,.15);color:var(--amber);border-color:var(--amber);}
+  .decision-badge.no{background:rgba(229,72,77,.15);color:var(--red);border-color:var(--red);}
+  h3{margin:0 0 10px;font-size:12.5px;color:var(--sub);text-transform:uppercase;letter-spacing:.5px;}
+  .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;}
+  .metric{background:var(--panel2);border:1px solid var(--border);border-radius:9px;padding:10px 12px;text-align:center;}
+  .metric .val{font-size:15px;font-weight:700;unicode-bidi:plaintext;}
+  .metric .lbl{font-size:10px;color:var(--sub);margin-top:2px;}
+  .setup-card{background:var(--panel2);border-radius:9px;padding:13px 15px;border-top:3px solid var(--green);margin-bottom:10px;}
+  .setup-card.alt{border-top-color:var(--blue);}
+  .setup-card.no{border-top-color:var(--red);}
+  .setup-status{font-size:11px;font-weight:700;padding:3px 9px;border-radius:6px;display:inline-block;margin-bottom:8px;}
+  .row{display:flex;justify-content:space-between;font-size:12px;padding:3px 0;border-bottom:1px dashed var(--border);gap:8px;}
+  .row:last-child{border-bottom:none;}
+  .row span:first-child{color:var(--sub);flex-shrink:0;}
+  .row span:last-child{text-align:left;unicode-bidi:plaintext;}
+  .verdict{background:linear-gradient(135deg,#1a1f27,#161a20);border:1px solid var(--border);border-radius:12px;padding:16px 18px;}
+  .verdict p{line-height:1.75;font-size:13px;margin:0;}
+  .warn-box{background:rgba(229,72,77,.1);border:1px solid var(--red);border-radius:10px;padding:12px 14px;color:#f0a3a5;font-size:12.5px;line-height:1.7;margin-bottom:4px;}
+  .analysis-only-banner{background:rgba(78,155,240,.12);border:2px dashed var(--blue);border-radius:10px;padding:10px 14px;color:var(--blue);font-size:13px;font-weight:700;text-align:center;margin-bottom:4px;}
+  .analysis-only-banner .why{display:block;font-weight:400;font-size:11px;color:var(--sub);margin-top:4px;}
+  .potential-card{background:var(--panel2);border:1px solid var(--blue);border-radius:10px;padding:12px 14px;}
+  .potential-card .label{font-size:10.5px;color:var(--blue);text-transform:uppercase;letter-spacing:.5px;font-weight:700;}
+  .potential-card .val{font-size:17px;font-weight:800;margin-top:4px;unicode-bidi:plaintext;}
+  .potential-card .note{font-size:11px;color:var(--sub);margin-top:4px;}
+  .mini-table{width:100%;border-collapse:collapse;font-size:11.5px;margin-top:8px;}
+  .mini-table th,.mini-table td{padding:5px 6px;text-align:center;border-bottom:1px solid var(--border);}
+  .mini-table td{unicode-bidi:plaintext;}
+  .mini-table th{color:var(--sub);font-weight:600;font-size:10px;}
+  .cp-note{color:var(--sub);font-size:10.5px;margin-top:4px;}
+</style>
+</head>
+<body>
+<div class="wrap" id="app"></div>
+
+<script>
+/*
+  DATA CONTRACT — the bot must produce a JSON object matching this exact shape
+  and either (a) inject it as window.WIDGET_DATA before this script runs, or
+  (b) this file can be adapted to fetch it. Every field the template reads is
+  listed below with its type; unknown/extra fields are ignored, missing
+  required fields render a visible placeholder rather than failing silently.
+
+  window.WIDGET_DATA = {
+    ticker: "MSFT",
+    exchange: "NASDAQ",
+    timeframe: "Daily",
+    date: "2026-07-03",
+    decision: "buy_confirmed" | "watchlist" | "no_trade" | "buy_now",
+    grade: "A".."F" | null,
+    analysis_only: false,  // A8: true if bot/output_gate.py's classify_output() returned "analysis_only" --
+                            // renders a distinct dashed-blue "not an order" banner, never omit this check for
+                            // a report you actually intend as a live order candidate
+    analysis_only_reasons: [ "sleeve is \"unknown\" -- STRATEGY_v3.md requires asking, not assuming (A7)" ],  // shown under the banner
+    metrics: [ {label: "ATR14", value: "13.42 (3.49%)", status: "pass"|"fail"|null}, ... ]  // up to 4
+    warnings: [ "free text — anything urgent enough to need its own colored callout, e.g. an R:R that fails only at the actual trigger price, or a same-day macro risk flag" ]  // 0+, rendered above setups in a red/amber box
+    potential: { value: "204.86", note: "Measured Move על בסיס 154.74–179.80, מהטריגר 179.80 — לא יעד מכירה, לא עובר את כלל 3" },
+      // CONSISTENCY_RULES.md rule 17: a SEPARATE, distinctly-labeled field from the targets table --
+      // required in the widget every time ANY trigger is defined (even pending). null/omitted only when
+      // there is truly no setup at all, not even pending -- never omitted just because rule 3 would fail it,
+      // since rule 17 is explicitly never gated by rule 3.
+    setups: [
+      {
+        role: "primary" | "alternate" | "no_trade",
+        title: "Reclaim SMA20 (388.80)",
+        rows: [ {label: "טריגר", value: "...", status: "pass"|"fail"|null}, ... ],
+        targets: [ {price: "146.37", pct: "40%", atr_mult: "1.98x", rr: "2.43", status: "pass"} ],  // the mandatory allocation table
+        checkpoints: [ {price: "133.19", reason: "0.57x ATR — בתוך הרעש", }, ... ]  // failed levels, shown but never sold at
+      }
+    ],
+    verdict: "free text paragraph, the closing summary"
+  }
+  "status" fields are optional on any row/metric — "pass" renders green, "fail" renders red, omitted/null renders neutral gray. This is the ONLY way a pass/fail distinction should reach the reader — never bury it inside a free-text value string where it can't be styled or scanned at a glance.
+*/
+
+const STATUS_COLOR = {pass: 'var(--green)', fail: 'var(--red)'};
+function statusSpan(text, status) {
+  const color = STATUS_COLOR[status] || 'inherit';
+  return `<span style="color:${color};font-weight:${status ? 700 : 400};">${text}</span>`;
+}
+
+const DECISION_LABELS = {
+  buy_now: {text: "🟢 Buy Now", cls: "buy"},
+  buy_confirmed: {text: "⏳ Buy Only If Confirmed", cls: "wait"},
+  watchlist: {text: "👀 Watchlist", cls: "watch"},
+  no_trade: {text: "✕ No Trade", cls: "no"},
+};
+
+function el(tag, cls, html) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (html !== undefined) e.innerHTML = html;
+  return e;
+}
+
+function render(data) {
+  const app = document.getElementById('app');
+  app.innerHTML = '';
+
+  if (!data || !data.ticker) {
+    app.appendChild(el('div', 'card', '<span style="color:var(--red)">⚠ WIDGET_DATA missing or malformed — nothing to render.</span>'));
+    return;
+  }
+
+  // Header
+  const header = el('div', 'card header');
+  const left = el('div');
+  left.appendChild(el('div', null,
+    `<span class="ticker">${data.ticker}</span> <span class="exch">${data.exchange || ''} · ${data.timeframe || ''} · ${data.date || ''}</span>`));
+  header.appendChild(left);
+
+  const decision = DECISION_LABELS[data.decision] || {text: data.decision || 'N/A', cls: 'watch'};
+  const badge = el('div', `decision-badge ${decision.cls}`, decision.text);
+  const right = el('div', null, '');
+  right.style.textAlign = 'left';
+  right.appendChild(badge);
+  if (data.grade) {
+    right.appendChild(el('div', null, `<span style="color:var(--sub);font-size:12px;">דירוג: ${data.grade}</span>`));
+  }
+  header.appendChild(right);
+  app.appendChild(header);
+
+  // A8: analysis-only banner -- visually distinct (dashed blue, centered) from both
+  // the red warn-box (urgent warning about a real setup) and a normal report, so a
+  // report with incomplete gates (unknown sleeve, unrecorded data timestamp, etc.)
+  // can never be mistaken for a ready-to-enter order at a glance.
+  if (data.analysis_only) {
+    const reasonText = Array.isArray(data.analysis_only_reasons) && data.analysis_only_reasons.length
+      ? `<span class="why">${data.analysis_only_reasons.join(' · ')}</span>` : '';
+    app.appendChild(el('div', 'analysis-only-banner', `⚠️ ניתוח בלבד — לא פקודה מוכנה${reasonText}`));
+  }
+
+  // Metrics
+  if (Array.isArray(data.metrics) && data.metrics.length) {
+    const card = el('div', 'card');
+    card.appendChild(el('h3', null, 'מדדים'));
+    const grid = el('div', 'metrics');
+    data.metrics.slice(0, 4).forEach(m => {
+      const box = el('div', 'metric');
+      box.appendChild(el('div', 'val', statusSpan(m.value ?? '—', m.status)));
+      box.appendChild(el('div', 'lbl', m.label ?? ''));
+      grid.appendChild(box);
+    });
+    card.appendChild(grid);
+    app.appendChild(card);
+  }
+
+  // Warnings — distinct red callout, always above setups, never buried in a row
+  if (Array.isArray(data.warnings) && data.warnings.length) {
+    data.warnings.forEach(w => {
+      app.appendChild(el('div', 'warn-box', `⚠ ${w}`));
+    });
+  }
+
+  // Movement potential (rule 17) — its own card, separate from the targets table and
+  // never gated by whether any target passed rule 3. Rendered right after warnings,
+  // before setups, so it reads as "the big picture" ahead of the tactical detail.
+  if (data.potential && data.potential.value) {
+    const p = el('div', 'potential-card');
+    p.appendChild(el('div', 'label', '📈 פוטנציאל תנועה — לא יעד מכירה'));
+    p.appendChild(el('div', 'val', data.potential.value));
+    if (data.potential.note) p.appendChild(el('div', 'note', data.potential.note));
+    app.appendChild(p);
+  }
+
+  // Setups
+  if (Array.isArray(data.setups) && data.setups.length) {
+    const card = el('div', 'card');
+    card.appendChild(el('h3', null, 'סטאפים'));
+    data.setups.forEach(s => {
+      const roleCls = s.role === 'alternate' ? 'alt' : (s.role === 'no_trade' ? 'no' : '');
+      const sc = el('div', `setup-card ${roleCls}`);
+      const statusColor = s.role === 'no_trade' ? 'var(--red)' : (s.role === 'alternate' ? 'var(--blue)' : 'var(--green)');
+      sc.appendChild(el('div', 'setup-status', s.title || ''));
+      sc.lastChild.style.background = 'transparent';
+      sc.lastChild.style.color = statusColor;
+      (s.rows || []).forEach(r => {
+        sc.appendChild(el('div', 'row', `<span>${r.label}</span><span>${statusSpan(r.value, r.status)}</span>`));
+      });
+
+      // Mandatory targets/allocation table — % must be shown, not buried in a "יעד" string
+      if (Array.isArray(s.targets) && s.targets.length) {
+        const t = el('table', 'mini-table');
+        t.innerHTML = '<tr><th>מחיר</th><th>%</th><th>ATR</th><th>R:R</th></tr>' +
+          s.targets.map(x => `<tr><td>${statusSpan(x.price, x.status)}</td><td>${x.pct ?? ''}</td><td>${x.atr_mult ?? ''}</td><td>${x.rr ?? ''}</td></tr>`).join('');
+        sc.appendChild(t);
+      }
+
+      // Checkpoints — failed levels, shown but explicitly never sold at
+      if (Array.isArray(s.checkpoints) && s.checkpoints.length) {
+        sc.appendChild(el('div', 'cp-note',
+          'Checkpoints (לא נמכר בהם): ' + s.checkpoints.map(c => `${c.price} — ${c.reason}`).join(' · ')));
+      }
+
+      card.appendChild(sc);
+    });
+    app.appendChild(card);
+  }
+
+  // Verdict
+  if (data.verdict) {
+    const v = el('div', 'verdict');
+    v.appendChild(el('p', null, data.verdict));
+    app.appendChild(v);
+  }
+}
+
+// The bot injects window.WIDGET_DATA = {...} via a <script> tag it writes
+// BEFORE this file (or before this line, if inlined) — then calls render().
+// For a headless-render pipeline: navigate to this file with WIDGET_DATA
+// already present in the page, wait for #app to have children, screenshot
+// the .wrap element (not the full viewport) to get a tightly-cropped PNG.
+if (window.WIDGET_DATA) {
+  render(window.WIDGET_DATA);
+}
+</script>
+</body>
+</html>

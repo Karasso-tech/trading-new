@@ -1,0 +1,3062 @@
+{
+ "A": {
+  "industry": "Laboratory Analytical Instruments",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3826"
+ },
+ "AAPL": {
+  "industry": "Electronic Computers",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3571"
+ },
+ "ABBV": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "ABNB": {
+  "industry": "Services-To Dwellings & Other Buildings",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7340"
+ },
+ "ABT": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "ACGL": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "ACN": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "ADBE": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "ADI": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "ADM": {
+  "industry": "Fats & Oils",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2070"
+ },
+ "ADP": {
+  "industry": "Services-Computer Processing & Data Preparation",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7374"
+ },
+ "ADSK": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "AEE": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "AES": {
+  "industry": "Cogeneration Services & Small Power Producers",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4991"
+ },
+ "AFL": {
+  "industry": "Accident & Health Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6321"
+ },
+ "AFRM": {
+  "industry": "Personal Credit Institutions",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6141"
+ },
+ "AIG": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "AIZ": {
+  "industry": "Insurance Carriers, NEC",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6399"
+ },
+ "AJG": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "AKAM": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "ALB": {
+  "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2821"
+ },
+ "ALGN": {
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3842"
+ },
+ "ALL": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "ALLE": {
+  "industry": "Services-Detective, Guard & Armored Car Services",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7381"
+ },
+ "AMAT": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "AMCR": {
+  "industry": "Miscellaneous Manufacturing Industries",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "3990"
+ },
+ "AMD": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "AME": {
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3823"
+ },
+ "AMGN": {
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2836"
+ },
+ "AMP": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "AMT": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "AMZN": {
+  "industry": "Retail-Catalog & Mail-Order Houses",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5961"
+ },
+ "ANET": {
+  "industry": "Computer Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3576"
+ },
+ "AON": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "APA": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "APD": {
+  "industry": "Industrial Inorganic Chemicals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2810"
+ },
+ "APH": {
+  "industry": "Electronic Connectors",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3678"
+ },
+ "APO": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "APP": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "APTV": {
+  "industry": "Motor Vehicle Parts & Accessories",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3714"
+ },
+ "ARES": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "ARM": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "ASTS": {
+  "industry": "Communications Services, NEC",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4899"
+ },
+ "ATO": {
+  "industry": "Natural Gas Distribution",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4924"
+ },
+ "AVB": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "AVGO": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "AVY": {
+  "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2670"
+ },
+ "AWK": {
+  "industry": "Water Supply",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4941"
+ },
+ "AXON": {
+  "industry": "Ordnance & Accessories, (No Vehicles/Guided Missiles)",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3480"
+ },
+ "AXP": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "AZO": {
+  "industry": "Retail-Auto & Home Supply Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5531"
+ },
+ "BA": {
+  "industry": "Aircraft",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3721"
+ },
+ "BAC": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "BALL": {
+  "industry": "Metal Cans",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3411"
+ },
+ "BAX": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "BBY": {
+  "industry": "Retail-Radio, Tv & Consumer Electronics Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5731"
+ },
+ "BDX": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "BE": {
+  "industry": "Electrical Industrial Apparatus",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3620"
+ },
+ "BEN": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "BG": {
+  "industry": "Fats & Oils",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2070"
+ },
+ "BIIB": {
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2836"
+ },
+ "BKNG": {
+  "industry": "Transportation Services",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4700"
+ },
+ "BKR": {
+  "industry": "Oil & Gas Field Machinery & Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3533"
+ },
+ "BLK": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "BMY": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "BNY": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "BR": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "BRO": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "BSX": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "BTC": {
+  "industry": "Commodity Contracts Brokers & Dealers",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6221"
+ },
+ "BX": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "BXP": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "C": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "CAH": {
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5122"
+ },
+ "CARR": {
+  "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3585"
+ },
+ "CASY": {
+  "industry": "Retail-Auto Dealers & Gasoline Stations",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5500"
+ },
+ "CAT": {
+  "industry": "Construction Machinery & Equip",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3531"
+ },
+ "CB": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "CBOE": {
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6200"
+ },
+ "CBRE": {
+  "industry": "Real Estate",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6500"
+ },
+ "CCI": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "CCL": {
+  "industry": "Water Transportation",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4400"
+ },
+ "CDNS": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "CDW": {
+  "industry": "Retail-Catalog & Mail-Order Houses",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5961"
+ },
+ "CEG": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "CF": {
+  "industry": "Agricultural Chemicals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2870"
+ },
+ "CFG": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "CHD": {
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2840"
+ },
+ "CHRW": {
+  "industry": "Arrangement of  Transportation of  Freight & Cargo",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4731"
+ },
+ "CHTR": {
+  "industry": "Cable & Other Pay Television Services",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4841"
+ },
+ "CI": {
+  "industry": "Hospital & Medical Service Plans",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6324"
+ },
+ "CIEN": {
+  "industry": "Telephone & Telegraph Apparatus",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3661"
+ },
+ "CINF": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "CL": {
+  "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2844"
+ },
+ "CLX": {
+  "industry": "Specialty Cleaning, Polishing and Sanitation Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2842"
+ },
+ "CMCSA": {
+  "industry": "Cable & Other Pay Television Services",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4841"
+ },
+ "CME": {
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6200"
+ },
+ "CMG": {
+  "industry": "Retail-Eating  Places",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5812"
+ },
+ "CMI": {
+  "industry": "Engines & Turbines",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3510"
+ },
+ "CMS": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "CNC": {
+  "industry": "Hospital & Medical Service Plans",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6324"
+ },
+ "CNP": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "COF": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "COHR": {
+  "industry": "Optical Instruments & Lenses",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3827"
+ },
+ "COIN": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "COO": {
+  "industry": "Ophthalmic Goods",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3851"
+ },
+ "COP": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "COR": {
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5122"
+ },
+ "COST": {
+  "industry": "Retail-Variety Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5331"
+ },
+ "CPAY": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "CPRT": {
+  "industry": "Retail-Auto Dealers & Gasoline Stations",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5500"
+ },
+ "CPT": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "CRDO": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "CRH": {
+  "industry": "Cement, Hydraulic",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3241"
+ },
+ "CRL": {
+  "industry": "Services-Commercial Physical & Biological Research",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8731"
+ },
+ "CRM": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "CRWD": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "CSCO": {
+  "industry": "Computer Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3576"
+ },
+ "CSGP": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "CSX": {
+  "industry": "Railroads, Line-Haul Operating",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4011"
+ },
+ "CTAS": {
+  "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "2320"
+ },
+ "CTSH": {
+  "industry": "Services-Computer Programming Services",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7371"
+ },
+ "CTVA": {
+  "industry": "Agricultural Production-Crops",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "0100"
+ },
+ "CVNA": {
+  "industry": "Retail-Auto Dealers & Gasoline Stations",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5500"
+ },
+ "CVS": {
+  "industry": "Retail-Drug Stores and Proprietary Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5912"
+ },
+ "CVX": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "D": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "DAL": {
+  "industry": "Air Transportation, Scheduled",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4512"
+ },
+ "DASH": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "DD": {
+  "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2821"
+ },
+ "DDOG": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "DE": {
+  "industry": "Farm Machinery & Equipment",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3523"
+ },
+ "DECK": {
+  "industry": "Rubber & Plastics Footwear",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3021"
+ },
+ "DELL": {
+  "industry": "Electronic Computers",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3571"
+ },
+ "DG": {
+  "industry": "Retail-Variety Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5331"
+ },
+ "DGX": {
+  "industry": "Services-Medical Laboratories",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8071"
+ },
+ "DHI": {
+  "industry": "Operative Builders",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1531"
+ },
+ "DHR": {
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3823"
+ },
+ "DIS": {
+  "industry": "Services-Miscellaneous Amusement & Recreation",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7990"
+ },
+ "DKNG": {
+  "industry": "Services-Miscellaneous Amusement & Recreation",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7990"
+ },
+ "DLR": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "DLTR": {
+  "industry": "Retail-Variety Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5331"
+ },
+ "DOC": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "DOV": {
+  "industry": "Construction, Mining & Materials Handling Machinery & Equip",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3530"
+ },
+ "DOW": {
+  "industry": "Plastic Materials, Synth Resins & Nonvulcan Elastomers",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2821"
+ },
+ "DPZ": {
+  "industry": "Wholesale-Groceries & Related Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5140"
+ },
+ "DRI": {
+  "industry": "Retail-Eating  Places",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5812"
+ },
+ "DTE": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "DUK": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "DVA": {
+  "industry": "Services-Misc Health & Allied Services, NEC",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8090"
+ },
+ "DVN": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "DXCM": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "EA": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "EBAY": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "ECHO": {
+  "industry": "Communications Services, NEC",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4899"
+ },
+ "ECL": {
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2840"
+ },
+ "ED": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "EFX": {
+  "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7320"
+ },
+ "EG": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "EIX": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "EL": {
+  "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2844"
+ },
+ "ELV": {
+  "industry": "Hospital & Medical Service Plans",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6324"
+ },
+ "EME": {
+  "industry": "Electrical Work",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1731"
+ },
+ "EMR": {
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3600"
+ },
+ "ENPH": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "EOG": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "EQIX": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "EQR": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "EQT": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "ERIE": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "ES": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "ESS": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "ETN": {
+  "industry": "Misc Industrial & Commercial Machinery & Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3590"
+ },
+ "ETR": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "EVRG": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "EW": {
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3842"
+ },
+ "EXC": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "EXE": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "EXPD": {
+  "industry": "Arrangement of  Transportation of  Freight & Cargo",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4731"
+ },
+ "EXPE": {
+  "industry": "Transportation Services",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4700"
+ },
+ "EXR": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "F": {
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3711"
+ },
+ "FANG": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "FAST": {
+  "industry": "Retail-Building Materials, Hardware, Garden Supply",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5200"
+ },
+ "FCX": {
+  "industry": "Metal Mining",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "1000"
+ },
+ "FDX": {
+  "industry": "Air Courier Services",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4513"
+ },
+ "FDXF": {
+  "industry": "Air Courier Services",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4513"
+ },
+ "FE": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "FFIV": {
+  "industry": "Computer Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3576"
+ },
+ "FICO": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "FIS": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "FISV": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "FITB": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "FIX": {
+  "industry": "Electrical Work",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1731"
+ },
+ "FLEX": {
+  "industry": "Printed Circuit Boards",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3672"
+ },
+ "FOX": {
+  "industry": "Television Broadcasting Stations",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4833"
+ },
+ "FOXA": {
+  "industry": "Television Broadcasting Stations",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4833"
+ },
+ "FRT": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "FSLR": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "FTNT": {
+  "industry": "Computer Peripheral Equipment, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3577"
+ },
+ "FTV": {
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3823"
+ },
+ "GD": {
+  "industry": "Ship & Boat Building & Repairing",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3730"
+ },
+ "GDDY": {
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7373"
+ },
+ "GE": {
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3600"
+ },
+ "GEHC": {
+  "industry": "X-Ray Apparatus & Tubes & Related Irradiation Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3844"
+ },
+ "GEN": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "GEV": {
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3600"
+ },
+ "GILD": {
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2836"
+ },
+ "GIS": {
+  "industry": "Grain Mill Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2040"
+ },
+ "GL": {
+  "industry": "Life Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6311"
+ },
+ "GLD": {
+  "industry": "Commodity Contracts Brokers & Dealers",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6221"
+ },
+ "GLW": {
+  "industry": "Drawing & Insulating of  Nonferrous Wire",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3357"
+ },
+ "GM": {
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3711"
+ },
+ "GNRC": {
+  "industry": "Motors & Generators",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3621"
+ },
+ "GOOG": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "GOOGL": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "GPC": {
+  "industry": "Wholesale-Motor Vehicle Supplies & New Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "5013"
+ },
+ "GPN": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "GRMN": {
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3812"
+ },
+ "GRND": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "GS": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "GWW": {
+  "industry": "Wholesale-Durable Goods",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "5000"
+ },
+ "HAL": {
+  "industry": "Oil & Gas Field Services, NEC",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1389"
+ },
+ "HAS": {
+  "industry": "Games, Toys & Children's Vehicles (No Dolls & Bicycles)",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "3944"
+ },
+ "HBAN": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "HCA": {
+  "industry": "Services-General Medical & Surgical Hospitals, NEC",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8062"
+ },
+ "HD": {
+  "industry": "Retail-Lumber & Other Building Materials Dealers",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5211"
+ },
+ "HIG": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "HII": {
+  "industry": "Ship & Boat Building & Repairing",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3730"
+ },
+ "HLT": {
+  "industry": "Hotels & Motels",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "7011"
+ },
+ "HON": {
+  "industry": "Aircraft Engines & Engine Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3724"
+ },
+ "HONA": {
+  "industry": "Aircraft Engines & Engine Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3724"
+ },
+ "HOOD": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "HP": {
+  "industry": "Drilling Oil & Gas Wells",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1381"
+ },
+ "HPE": {
+  "industry": "Computer & office Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3570"
+ },
+ "HPQ": {
+  "industry": "Computer & office Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3570"
+ },
+ "HRL": {
+  "industry": "Meat Packing Plants",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2011"
+ },
+ "HST": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "HSY": {
+  "industry": "Sugar & Confectionery Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2060"
+ },
+ "HUBB": {
+  "industry": "Electronic Components & Accessories",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3670"
+ },
+ "HUM": {
+  "industry": "Hospital & Medical Service Plans",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6324"
+ },
+ "HUT": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "HWM": {
+  "industry": "Rolling Drawing & Extruding of  Nonferrous Metals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3350"
+ },
+ "IBKR": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "IBM": {
+  "industry": "Computer & office Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3570"
+ },
+ "ICE": {
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6200"
+ },
+ "IDXX": {
+  "industry": "In Vitro & In Vivo Diagnostic Substances",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2835"
+ },
+ "IEX": {
+  "industry": "Pumps & Pumping Equipment",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3561"
+ },
+ "IFF": {
+  "industry": "Industrial Organic Chemicals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2860"
+ },
+ "INCY": {
+  "industry": "Services-Commercial Physical & Biological Research",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8731"
+ },
+ "INTC": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "INTU": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "INVH": {
+  "industry": "Real Estate Operators (No Developers) & Lessors",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6510"
+ },
+ "IP": {
+  "industry": "Paper Mills",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2621"
+ },
+ "IQV": {
+  "industry": "Services-Commercial Physical & Biological Research",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8731"
+ },
+ "IR": {
+  "industry": "General Industrial Machinery & Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3560"
+ },
+ "IRM": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "ISRG": {
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3842"
+ },
+ "ITW": {
+  "industry": "General Industrial Machinery & Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3560"
+ },
+ "IVZ": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "J": {
+  "industry": "Heavy Construction Other Than Bldg Const - Contractors",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1600"
+ },
+ "JBHT": {
+  "industry": "Trucking (No Local)",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4213"
+ },
+ "JBL": {
+  "industry": "Printed Circuit Boards",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3672"
+ },
+ "JCI": {
+  "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3585"
+ },
+ "JKHY": {
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7373"
+ },
+ "JNJ": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "JPM": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "KDP": {
+  "industry": "Beverages",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2080"
+ },
+ "KEY": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "KEYS": {
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3823"
+ },
+ "KHC": {
+  "industry": "Canned, Frozen & Preservd Fruit, Veg & Food Specialties",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2030"
+ },
+ "KIM": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "KKR": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "KLAC": {
+  "industry": "Optical Instruments & Lenses",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3827"
+ },
+ "KMB": {
+  "industry": "Converted Paper & Paperboard Prods (No Contaners/Boxes)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2670"
+ },
+ "KMI": {
+  "industry": "Natural Gas Transmission",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4922"
+ },
+ "KO": {
+  "industry": "Beverages",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2080"
+ },
+ "KR": {
+  "industry": "Retail-Grocery Stores",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5411"
+ },
+ "KVUE": {
+  "industry": "Perfumes, Cosmetics & Other Toilet Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2844"
+ },
+ "L": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "LDOS": {
+  "industry": "Services-Computer Integrated Systems Design",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7373"
+ },
+ "LEN": {
+  "industry": "General Bldg Contractors - Residential Bldgs",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1520"
+ },
+ "LH": {
+  "industry": "Services-Medical Laboratories",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "8071"
+ },
+ "LHX": {
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3812"
+ },
+ "LII": {
+  "industry": "Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3585"
+ },
+ "LIN": {
+  "industry": "Industrial Inorganic Chemicals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2810"
+ },
+ "LITE": {
+  "industry": "Communications Equipment, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3669"
+ },
+ "LLY": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "LMT": {
+  "industry": "Guided Missiles & Space Vehicles & Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3760"
+ },
+ "LNT": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "LOW": {
+  "industry": "Retail-Lumber & Other Building Materials Dealers",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5211"
+ },
+ "LRCX": {
+  "industry": "Special Industry Machinery, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3559"
+ },
+ "LULU": {
+  "industry": "Apparel & Other Finishd Prods of  Fabrics & Similar Matl",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "2300"
+ },
+ "LUV": {
+  "industry": "Air Transportation, Scheduled",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4512"
+ },
+ "LVS": {
+  "industry": "Hotels & Motels",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "7011"
+ },
+ "LYB": {
+  "industry": "Industrial Organic Chemicals",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2860"
+ },
+ "LYV": {
+  "industry": "Services-Amusement & Recreation Services",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7900"
+ },
+ "MA": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "MAA": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "MAR": {
+  "industry": "Hotels & Motels",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "7011"
+ },
+ "MAS": {
+  "industry": "Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3430"
+ },
+ "MCD": {
+  "industry": "Retail-Eating  Places",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5812"
+ },
+ "MCHP": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "MCK": {
+  "industry": "Wholesale-Drugs, Proprietaries & Druggists' Sundries",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5122"
+ },
+ "MCO": {
+  "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7320"
+ },
+ "MDLZ": {
+  "industry": "Food and Kindred Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2000"
+ },
+ "MDT": {
+  "industry": "Electromedical & Electrotherapeutic Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3845"
+ },
+ "MET": {
+  "industry": "Life Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6311"
+ },
+ "META": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "MGM": {
+  "industry": "Hotels & Motels",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "7011"
+ },
+ "MKC": {
+  "industry": "Miscellaneous Food Preparations & Kindred Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2090"
+ },
+ "MLM": {
+  "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "1400"
+ },
+ "MMM": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "MNST": {
+  "industry": "Bottled & Canned Soft Drinks & Carbonated Waters",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2086"
+ },
+ "MO": {
+  "industry": "Cigarettes",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2111"
+ },
+ "MPC": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "MPWR": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "MRK": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "MRNA": {
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2836"
+ },
+ "MRSH": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "MRVL": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "MS": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "MSCI": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "MSFT": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "MSI": {
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3663"
+ },
+ "MSTR": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "MTB": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "MTD": {
+  "industry": "Laboratory Analytical Instruments",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3826"
+ },
+ "MU": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "NBIS": {
+  "industry": "Services-Computer Programming, Data Processing, Etc.",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7370"
+ },
+ "NDAQ": {
+  "industry": "Security & Commodity Brokers, Dealers, Exchanges & Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6200"
+ },
+ "NDSN": {
+  "industry": "General Industrial Machinery & Equipment, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3569"
+ },
+ "NEE": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "NEM": {
+  "industry": "Gold and Silver Ores",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "1040"
+ },
+ "NFLX": {
+  "industry": "Services-Video Tape Rental",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7841"
+ },
+ "NI": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "NKE": {
+  "industry": "Rubber & Plastics Footwear",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3021"
+ },
+ "NOC": {
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3812"
+ },
+ "NOW": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "NRG": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "NSC": {
+  "industry": "Railroads, Line-Haul Operating",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4011"
+ },
+ "NTAP": {
+  "industry": "Computer Storage Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3572"
+ },
+ "NTRS": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "NUE": {
+  "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3312"
+ },
+ "NVDA": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "NVR": {
+  "industry": "Operative Builders",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1531"
+ },
+ "NXPI": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "O": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "ODFL": {
+  "industry": "Trucking (No Local)",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4213"
+ },
+ "OKE": {
+  "industry": "Natural Gas Transmisison & Distribution",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4923"
+ },
+ "OMC": {
+  "industry": "Services-Advertising Agencies",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7311"
+ },
+ "ON": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "ONDS": {
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3663"
+ },
+ "OPEN": {
+  "industry": "Real Estate Agents & Managers (For Others)",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6531"
+ },
+ "ORCL": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "ORLY": {
+  "industry": "Retail-Auto & Home Supply Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5531"
+ },
+ "OTIS": {
+  "industry": "Electronic & Other Electrical Equipment (No Computer Equip)",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3600"
+ },
+ "OXY": {
+  "industry": "Crude Petroleum & Natural Gas",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1311"
+ },
+ "PANW": {
+  "industry": "Computer Peripheral Equipment, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3577"
+ },
+ "PAYX": {
+  "industry": "Services-Engineering, Accounting, Research, Management",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "8700"
+ },
+ "PCAR": {
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3711"
+ },
+ "PCG": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "PEG": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "PEP": {
+  "industry": "Beverages",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2080"
+ },
+ "PFE": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "PFG": {
+  "industry": "Accident & Health Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6321"
+ },
+ "PG": {
+  "industry": "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2840"
+ },
+ "PGR": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "PH": {
+  "industry": "Miscellaneous Fabricated Metal Products",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3490"
+ },
+ "PHM": {
+  "industry": "Operative Builders",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1531"
+ },
+ "PKG": {
+  "industry": "Paperboard Containers & Boxes",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2650"
+ },
+ "PLD": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "PLTR": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "PM": {
+  "industry": "Cigarettes",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2111"
+ },
+ "PNC": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "PNR": {
+  "industry": "Special Industry Machinery (No Metalworking Machinery)",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3550"
+ },
+ "PNW": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "PODD": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "POET": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "PPG": {
+  "industry": "Paints, Varnishes, Lacquers, Enamels & Allied Prods",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2851"
+ },
+ "PPL": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "PRU": {
+  "industry": "Life Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6311"
+ },
+ "PSA": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "PSX": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "PTC": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "PWR": {
+  "industry": "Electrical Work",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "1731"
+ },
+ "PYPL": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "Q": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "QCOM": {
+  "industry": "Radio & Tv Broadcasting & Communications Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3663"
+ },
+ "QQQ": {
+  "industry": "",
+  "sector": null,
+  "sector_etf": null,
+  "sic": ""
+ },
+ "RBLX": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "RCL": {
+  "industry": "Water Transportation",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4400"
+ },
+ "REG": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "REGN": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "RELY": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "RF": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "RIOT": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "RIVN": {
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3711"
+ },
+ "RJF": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "RKLB": {
+  "industry": "Guided Missiles & Space Vehicles & Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3760"
+ },
+ "RL": {
+  "industry": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "2320"
+ },
+ "RMD": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "ROK": {
+  "industry": "Measuring & Controlling Devices, NEC",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3829"
+ },
+ "ROL": {
+  "industry": "Services-To Dwellings & Other Buildings",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7340"
+ },
+ "ROP": {
+  "industry": "Industrial Instruments For Measurement, Display, and Control",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3823"
+ },
+ "ROST": {
+  "industry": "Retail-Family Clothing Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5651"
+ },
+ "RSG": {
+  "industry": "Refuse Systems",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4953"
+ },
+ "RTX": {
+  "industry": "Aircraft Engines & Engine Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3724"
+ },
+ "RVTY": {
+  "industry": "Laboratory Analytical Instruments",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3826"
+ },
+ "SBAC": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "SBUX": {
+  "industry": "Retail-Eating & Drinking Places",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5810"
+ },
+ "SCHW": {
+  "industry": "Security Brokers, Dealers & Flotation Companies",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6211"
+ },
+ "SHW": {
+  "industry": "Retail-Building Materials, Hardware, Garden Supply",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5200"
+ },
+ "SJM": {
+  "industry": "Canned, Fruits, Veg, Preserves, Jams & Jellies",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2033"
+ },
+ "SLB": {
+  "industry": "Oil & Gas Field Services, NEC",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "1389"
+ },
+ "SMCI": {
+  "industry": "Electronic Computers",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3571"
+ },
+ "SNA": {
+  "industry": "Cutlery, Handtools & General Hardware",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3420"
+ },
+ "SNDK": {
+  "industry": "Computer Storage Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3572"
+ },
+ "SNPS": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "SO": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "SOFI": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "SOLV": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "SPG": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "SPGI": {
+  "industry": "Services-Consumer Credit Reporting, Collection Agencies",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7320"
+ },
+ "SPOT": {
+  "industry": "Radio Broadcasting Stations",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4832"
+ },
+ "SPY": {
+  "industry": "",
+  "sector": null,
+  "sector_etf": null,
+  "sic": ""
+ },
+ "SRE": {
+  "industry": "Gas & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4932"
+ },
+ "STE": {
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3842"
+ },
+ "STLD": {
+  "industry": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "3312"
+ },
+ "STT": {
+  "industry": "State Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6022"
+ },
+ "STX": {
+  "industry": "Computer Storage Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3572"
+ },
+ "STZ": {
+  "industry": "Beverages",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2080"
+ },
+ "SW": {
+  "industry": "Paperboard Containers & Boxes",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "2650"
+ },
+ "SWK": {
+  "industry": "Cutlery, Handtools & General Hardware",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3420"
+ },
+ "SYF": {
+  "industry": "Finance Services",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6199"
+ },
+ "SYK": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "SYY": {
+  "industry": "Wholesale-Groceries & Related Products",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "5140"
+ },
+ "T": {
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4813"
+ },
+ "TDG": {
+  "industry": "Aircraft Parts & Auxiliary Equipment, NEC",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3728"
+ },
+ "TDY": {
+  "industry": "Search, Detection, Navigation, Guidance, Aeronautical Sys",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3812"
+ },
+ "TECH": {
+  "industry": "Biological Products, (No Diagnostic Substances)",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2836"
+ },
+ "TEL": {
+  "industry": "Wholesale-Electronic Parts & Equipment, NEC",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "5065"
+ },
+ "TER": {
+  "industry": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3825"
+ },
+ "TFC": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "TGT": {
+  "industry": "Retail-Variety Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5331"
+ },
+ "TJX": {
+  "industry": "Retail-Family Clothing Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5651"
+ },
+ "TKO": {
+  "industry": "Services-Amusement & Recreation Services",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "7900"
+ },
+ "TMO": {
+  "industry": "Measuring & Controlling Devices, NEC",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3829"
+ },
+ "TMUS": {
+  "industry": "Radiotelephone Communications",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4812"
+ },
+ "TPL": {
+  "industry": "Oil Royalty Traders",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6792"
+ },
+ "TPR": {
+  "industry": "Leather & Leather Products",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "3100"
+ },
+ "TRGP": {
+  "industry": "Natural Gas Transmission",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4922"
+ },
+ "TRMB": {
+  "industry": "Measuring & Controlling Devices, NEC",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3829"
+ },
+ "TROW": {
+  "industry": "Investment Advice",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6282"
+ },
+ "TRV": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "TSCO": {
+  "industry": "Retail-Building Materials, Hardware, Garden Supply",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5200"
+ },
+ "TSLA": {
+  "industry": "Motor Vehicles & Passenger Car Bodies",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3711"
+ },
+ "TSN": {
+  "industry": "Poultry Slaughtering and Processing",
+  "sector": "Consumer Staples",
+  "sector_etf": "XLP",
+  "sic": "2015"
+ },
+ "TT": {
+  "industry": "Auto Controls For Regulating Residential & Comml Environments",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3822"
+ },
+ "TTWO": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "TXN": {
+  "industry": "Semiconductors & Related Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3674"
+ },
+ "TXT": {
+  "industry": "Aircraft & Parts",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3720"
+ },
+ "TYL": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "UAL": {
+  "industry": "Air Transportation, Scheduled",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4512"
+ },
+ "UBER": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "UDR": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "ULTA": {
+  "industry": "Retail-Retail Stores, NEC",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5990"
+ },
+ "UNH": {
+  "industry": "Hospital & Medical Service Plans",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6324"
+ },
+ "UNP": {
+  "industry": "Railroads, Line-Haul Operating",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4011"
+ },
+ "UPS": {
+  "industry": "Trucking & Courier Services (No Air)",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "4210"
+ },
+ "URI": {
+  "industry": "Services-Equipment Rental & Leasing, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7359"
+ },
+ "USB": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "V": {
+  "industry": "Services-Business Services, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7389"
+ },
+ "VEEV": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "VICI": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "VLO": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "VLTO": {
+  "industry": "Instruments For Meas & Testing of  Electricity & Elec Signals",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3825"
+ },
+ "VMC": {
+  "industry": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)",
+  "sector": "Materials",
+  "sector_etf": "XLB",
+  "sic": "1400"
+ },
+ "VRSK": {
+  "industry": "Services-Computer Processing & Data Preparation",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7374"
+ },
+ "VRSN": {
+  "industry": "Services-Computer Programming Services",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7371"
+ },
+ "VRT": {
+  "industry": "Electronic Components, NEC",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3679"
+ },
+ "VRTX": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "VST": {
+  "industry": "Electric Services",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4911"
+ },
+ "VTR": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "VTRS": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ },
+ "VZ": {
+  "industry": "Telephone Communications (No Radiotelephone)",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4813"
+ },
+ "WAB": {
+  "industry": "Railroad Equipment",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3743"
+ },
+ "WAT": {
+  "industry": "Laboratory Analytical Instruments",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3826"
+ },
+ "WBD": {
+  "industry": "Cable & Other Pay Television Services",
+  "sector": "Communication Services",
+  "sector_etf": "XLC",
+  "sic": "4841"
+ },
+ "WDAY": {
+  "industry": "Services-Computer Processing & Data Preparation",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7374"
+ },
+ "WDC": {
+  "industry": "Computer Storage Devices",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3572"
+ },
+ "WEC": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "WELL": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "WFC": {
+  "industry": "National Commercial Banks",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6021"
+ },
+ "WM": {
+  "industry": "Refuse Systems",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4953"
+ },
+ "WMB": {
+  "industry": "Natural Gas Transmission",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4922"
+ },
+ "WMT": {
+  "industry": "Retail-Variety Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5331"
+ },
+ "WRB": {
+  "industry": "Fire, Marine & Casualty Insurance",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6331"
+ },
+ "WSM": {
+  "industry": "Retail-Home Furniture, Furnishings & Equipment Stores",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5700"
+ },
+ "WST": {
+  "industry": "Surgical & Medical Instruments & Apparatus",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3841"
+ },
+ "WTW": {
+  "industry": "Insurance Agents, Brokers & Service",
+  "sector": "Financials",
+  "sector_etf": "XLF",
+  "sic": "6411"
+ },
+ "WY": {
+  "industry": "Real Estate Investment Trusts",
+  "sector": "Real Estate",
+  "sector_etf": "XLRE",
+  "sic": "6798"
+ },
+ "XEL": {
+  "industry": "Electric & Other Services Combined",
+  "sector": "Utilities",
+  "sector_etf": "XLU",
+  "sic": "4931"
+ },
+ "XOM": {
+  "industry": "Petroleum Refining",
+  "sector": "Energy",
+  "sector_etf": "XLE",
+  "sic": "2911"
+ },
+ "XYL": {
+  "industry": "Pumps & Pumping Equipment",
+  "sector": "Industrials",
+  "sector_etf": "XLI",
+  "sic": "3561"
+ },
+ "XYZ": {
+  "industry": "Services-Prepackaged Software",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "7372"
+ },
+ "YUM": {
+  "industry": "Retail-Eating  Places",
+  "sector": "Consumer Discretionary",
+  "sector_etf": "XLY",
+  "sic": "5812"
+ },
+ "ZBH": {
+  "industry": "Orthopedic, Prosthetic & Surgical Appliances & Supplies",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "3842"
+ },
+ "ZBRA": {
+  "industry": "General Industrial Machinery & Equipment",
+  "sector": "Information Technology",
+  "sector_etf": "XLK",
+  "sic": "3560"
+ },
+ "ZTS": {
+  "industry": "Pharmaceutical Preparations",
+  "sector": "Health Care",
+  "sector_etf": "XLV",
+  "sic": "2834"
+ }
+}

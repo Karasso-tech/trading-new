@@ -1,0 +1,12 @@
+# Python 3.12+. Install with: pip install -r requirements.txt
+#
+# Direct-analysis architecture: no Anthropic API/CLI calls in this path at all --
+# Claude Code itself reads the protocol .md files fresh and does the analysis.
+# The old metered-API bot (main.py/playbooks.py/anthropic SDK/python-telegram-bot)
+# was retired and moved to _archive_old_api_bot/.
+mcp>=1.28.0            # tv_data.py's TradingView Desktop connector
+tzdata>=2025.1          # tv_data.py's market-hours timezone handling
+requests>=2.32.0        # telegram_send.py -- raw Telegram Bot API HTTP calls
+playwright>=1.48.0      # widget_render.py + report_pdf.py (run: playwright install chromium)
+markdown>=3.7           # report_pdf.py -- .md report -> HTML -> PDF
+pandas_market_calendars>=5.4.0  # tv_data.py -- real NYSE trading calendar (B2), not naive "today - 1 day"

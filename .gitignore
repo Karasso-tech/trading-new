@@ -1,0 +1,146 @@
+# Secrets -- never commit real credentials
+.env
+
+# Vendored/reinstallable dependencies
+tradingview-mcp/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local tooling state, not project source
+.claude/
+
+# Runtime logs -- noisy, not source, regenerated constantly
+*.log
+
+# Local runtime state -- real trading data, self-creates on first run, never
+# committed once this repo went public (2026-07-12)
+trading_new.db
+trading.db
+bot/.telegram_offset
+bot/.process_queue.lock
+bot/.ack_listener.pid
+bot/.ack_listener_heartbeat
+reports/*.md
+!reports/.gitkeep
+_decision_*.json
+
+# Ad-hoc debug/scratch output, not source
+scratch_*
+
+# One-off handoff packages (see HANDOFF_README.md) -- not part of the repo itself
+TradingNew_Handoff_*.zip
+
+# Research exports -- regenerable at any time from the DB via bot/export_ideas.py,
+# so the CSVs themselves are output, not source.
+_exports/
+
+# DB backups taken before a schema migration -- kept locally, never committed
+trading_new.db.bak_*
+
+# Per-run decision/report payloads written by the delivery scripts and by the
+# ad-hoc batch runs. All regenerated on the next run and none of them source --
+# they had accumulated to ~120 untracked files at the repo root by 2026-08-08.
+# _decision_*.json above already covers the /screener shape; these are the
+# other prefixes the same pipeline writes.
+_automonitor_*.json
+_monitorall_*.json
+_position_status_*.json
+_positions_status_*.json
+_positionstatus_*.json
+_positions_eod_*.json
+_playbook_*
+_report_*.md
+_index_bars_cache.json
+_task_heartbeat_state.json
+bot/_tickers_tmp.txt
+
+# Handoff packages and the generated guide/changelog documents that ship with
+# them -- built from the docs in this repo, not edited here.
+TradingSystem_for_friend_*.zip
+GUIDE_*.html
+GUIDE_*.pdf
+WHATS_NEW_*.html
+WHATS_NEW_*.pdf
+
+# Per-run payloads now live here rather than loose in the project root
+# (2026-08-09, bot/run_files.py). Swept automatically after 7 days.
+_runs/
+
+# Rotated logs (bot/run_files.rotate_log)
+*.log.[0-9]
+
+# Things kept only in case they are wanted back -- old handoff zips, generated
+# guide PDFs, sample TradingView screenshots. None of it is source and none of
+# it was ever tracked, so it is moved here rather than deleted (2026-08-09).
+# Safe to delete the whole folder once you are sure.
+_attic/
+tradingview-mcp/screenshots/
+
+# ---------------------------------------------------------------------------
+# Owner-private material (2026-08-19). Real account figures, the real trade
+# record and an outside review of it. Kept on the owner's machine, never in
+# the public repo.
+MY_TRADING_GUIDE.md
+CONSULTANT_REVIEW_*.md
+BACKTEST_RESULTS.md
+
+# Retired API-driven architecture. Dead code, superseded by the Claude Code
+# CLI design described in CLAUDE_CODE_INSTRUCTIONS.md.
+_archive_old_api_bot/
+
+# Backtest inputs and outputs -- ~166 MB of downloaded price bars, earnings
+# rows and per-run result payloads. All of it regenerates from
+# backtest/fetch_bars.py plus the simulators, so it is data, not source.
+backtest/data/
+backtest/results_*.json
+# The signal study's master table -- every entry point the system would ever
+# have named, one row each. Regenerable from signal_study.py over the cached
+# bars, and far too large for a repo.
+backtest/signals_*.json
+backtest/signal_book_*.json
+backtest/signal_book_*.csv
+backtest/_pre_et_backup/
+_backtest_bars_cache/
+
+# One-off scratch scripts written to build a single decision payload by hand.
+# Never imported by anything, kept locally only.
+bot/_mk_*.py
+bot/gen_*.py
+bot/_val.py
+bot/runit.py
+
+# Owner-private backtest write-ups (2026-08-30). Same reason as
+# BACKTEST_RESULTS.md above -- research the owner keeps to himself.
+backtest/AUDIT.md
+backtest/MONITOR_GAP.md
+backtest/RESEARCH_PLAN.md
+backtest/SIMULATION_REBUILD_SPEC.md
+backtest/AAPL_10K_DIARY.md
+
+# More one-off scratch scripts written to build a single decision payload or
+# pull one number by hand. Never imported, kept locally only.
+_extract_*.py
+bot/_build_decision_*.py
+bot/build_decision_*.py
+bot/_alt_*.py
+bot/_inject_*.py
+bot/_gen_*.py
+
+# Backtest scratch output -- timing notes, CSV exports and discarded result
+# payloads. All regenerable, none of it source.
+backtest/_*.txt
+backtest/export_*.csv
+backtest/INVALID_*.json
+
+# Research tables (2026-08-31 entry-signal study). Every one of these is
+# rebuilt from bars by research/build_dataset.py and research/build_v2.py in
+# under an hour, and together they are 190 MB. The scripts are the source of
+# truth; these are their output.
+research/dataset.json
+research/entries_v2.json
+research/universe.parquet
+research/universe_v2.parquet
+research/*.log

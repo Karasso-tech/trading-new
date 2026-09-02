@@ -1,0 +1,19 @@
+# Everything here is rebuildable from the code beside it, and it is 1.4 GB.
+#
+#   data/bars/     925 MB   -- python fetch_bars.py
+#   data/stage0.db 495 MB   -- python study.py, then features.py
+#   data/raw/        5 MB   -- the Wikipedia pages universe*.py download
+#
+# What IS committed: data/universe/ (440 KB). Those files are the point-in-time
+# index membership and the sector map -- small, and the one thing that would be
+# awkward to reproduce exactly, because Wikipedia's pages change under us.
+data/bars/
+data/raw/
+data/stage0.db
+data/stage0.db-wal
+data/stage0.db-shm
+data/stage0.db-journal
+
+# Run logs
+_*.log
+__pycache__/

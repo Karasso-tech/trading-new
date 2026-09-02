@@ -1,0 +1,7152 @@
+{
+ "built_at": "2026-09-01T14:23:54.158948+00:00",
+ "sector_etf": {
+  "Communication Services": "XLC",
+  "Consumer Discretionary": "XLY",
+  "Consumer Staples": "XLP",
+  "Energy": "XLE",
+  "Financials": "XLF",
+  "Health Care": "XLV",
+  "Industrials": "XLI",
+  "Information Technology": "XLK",
+  "Materials": "XLB",
+  "Real Estate": "XLRE",
+  "Utilities": "XLU"
+ },
+ "tickers": {
+  "MMM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "AOS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "ABT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ABBV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ACN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ADBE": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "AMD": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "AES": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "AFL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "A": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "APD": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "ABNB": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "AKAM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ALB": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "ARE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "ALGN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ALLE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "LNT": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "ALL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "GOOGL": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "GOOG": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "MO": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "AMZN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "AMCR": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "AEE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "AEP": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "AXP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "AIG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "AMT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "AWK": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "AMP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "AME": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "AMGN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "APH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ADI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "AON": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "APA": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "APO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "AAPL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "AMAT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "APP": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "APTV": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "ACGL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "ADM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "ARES": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "ANET": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "AJG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "AIZ": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "T": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "ATO": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "ADSK": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ADP": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "AZO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "AVY": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "AXON": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "BKR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "BALL": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "BAC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BAX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "BDX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "BRK-B": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BBY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "TECH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "BIIB": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "BLK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BX": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "XYZ": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BNY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "BKNG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "BSX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "BMY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "AVGO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "BR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "BRO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "BF-B": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "BLDR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "BG": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "BXP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "CHRW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CDNS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "CPT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "COF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CAH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "CCL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "CARR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CVNA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "CASY": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CAT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CBOE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CBRE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "CDW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "COR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "CNC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "CNP": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "CF": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "CRL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "SCHW": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CHTR": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "CVX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "CMG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "CB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CHD": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CIEN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "CI": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "CINF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CTAS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CSCO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "C": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CFG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CLX": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CME": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CMS": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "KO": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CTSH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "COHR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "COIN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CL": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CMCSA": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "FIX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "COP": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "ED": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "STZ": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CEG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "COO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "CPRT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "GLW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "CPAY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CTVA": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "CSGP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "COST": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "CRH": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "CRWD": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "CCI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "CSX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CMI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "CVS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "DHR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "DRI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "DDOG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "DVA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "DECK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "DE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "DELL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "DAL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "DVN": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "DXCM": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "FANG": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "DLR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "DG": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "DLTR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "D": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "DPZ": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "DASH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "DOV": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "DOW": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "DHI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "DTE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "DUK": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "DD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "ETN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "EBAY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "ECHO": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "ECL": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "EIX": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "EW": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ELV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "EME": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "EMR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "ETR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "EOG": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "EQT": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "EFX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "EQIX": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "ERIE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "ESS": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "EL": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "EG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "EVRG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "ES": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "EXC": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "EXE": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "EXPE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "EXPD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "EXR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "XOM": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "FFIV": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "FDS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "FICO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "FAST": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "FRT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "FDX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "FDXF": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "FERG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "FIS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "FITB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "FSLR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "FE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "FISV": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "FLEX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "F": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "FTNT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "FTV": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "FOXA": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "FOX": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "BEN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "FCX": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "GRMN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "IT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "GE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "GEHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "GEV": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "GEN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "GNRC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "GD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "GIS": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "GM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "GPC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "GILD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "GPN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "GL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "GDDY": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "GS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "HAL": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "HIG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "HAS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "HCA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "DOC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "HSIC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "HSY": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "HPE": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "HLT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "HD": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "HONA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "HON": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "HRL": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "HST": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "HWM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "HPQ": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "HUBB": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "HUM": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "HBAN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "HII": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "IBM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "IEX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "IDXX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ITW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "INCY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "IR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PODD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "INTC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "IBKR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "ICE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "IFF": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "IP": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "INTU": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ISRG": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "IVZ": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "INVH": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "IQV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "IRM": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "JBHT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "JBL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "JKHY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "J": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "JNJ": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "JCI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "JPM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "KVUE": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "KDP": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "KEY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "KEYS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "KMB": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "KIM": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "KMI": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "KKR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "KLAC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "KHC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "KR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "LHX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "LH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "LRCX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "LVS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "LDOS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "LEN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "LII": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "LLY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "LIN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "LYV": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "LMT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "L": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "LOW": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "LULU": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "LITE": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "LYB": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "MTB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MPC": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "MAR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "MRSH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MLM": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "MRVL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MAS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "MA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MKC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "MCD": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "MCK": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "MDT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "MRK": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "META": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "MET": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MTD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "MGM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "MCHP": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MU": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MSFT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MAA": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "MRNA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "TAP": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "MDLZ": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "MPWR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MNST": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "MCO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "MOS": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "MSI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "MSCI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "NDAQ": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "NTAP": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "NFLX": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "NEM": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "NWSA": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "NWS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "NEE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "NKE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "NI": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "NDSN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "NSC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "NTRS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "NOC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "NCLH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "NRG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "NUE": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "NVDA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "NVR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "NXPI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ORLY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "OXY": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "ODFL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "OMC": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "ON": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "OKE": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "ORCL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "OTIS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PCAR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PKG": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "PLTR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "PANW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "PSKY": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "PH": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PAYX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PYPL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "PNR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "PEP": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "PFE": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "PCG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "PM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "PSX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "PNW": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "PNC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "PPG": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "PPL": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "PFG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "PG": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "PGR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "PLD": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "PRU": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "PEG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "PTC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "PSA": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "PHM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "PWR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "QCOM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "DGX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "Q": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "RL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "RJF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "RDDT": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "RTX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "O": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "REG": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "REGN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "RF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "RSG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "RMD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "RVTY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "HOOD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "ROK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "ROL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "ROP": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ROST": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "RCL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "SPGI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "CRM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SNDK": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SBAC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "SLB": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "STX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SRE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "NOW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SHW": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "SPG": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "SWKS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SJM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "SW": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "SNA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "SOLV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "SO": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "LUV": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "SWK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "SBUX": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "STT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "STLD": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "STE": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "SYK": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "SMCI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SYF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "SNPS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "SYY": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "TMUS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "TROW": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "TTWO": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "TPR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "TRGP": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "TGT": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "TEL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TDY": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TER": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TSLA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "TXN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TPL": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "TXT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "TMO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "TJX": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "TKO": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "TTD": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "TSCO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "TT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "TDG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "TRV": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "TRMB": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TFC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "TYL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "TSN": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "USB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "UBER": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "UDR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "ULTA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "UNP": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "UAL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "UPS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "URI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "UNH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "UHS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "VLO": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "VEEV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "VTR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "VLTO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "VRSN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "VRSK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "VZ": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "VRTX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "VRT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "VTRS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "VICI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "V": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "VST": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "VMRK": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "VMC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp500"
+  },
+  "WRB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "GWW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "WAB": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "WMT": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp500"
+  },
+  "DIS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "WBD": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp500"
+  },
+  "WM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "WAT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "WEC": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "WFC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "WELL": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "WST": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "WDC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "WY": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp500"
+  },
+  "WSM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "WMB": {
+   "sector": "Energy",
+   "source": "wikipedia_sp500"
+  },
+  "WTW": {
+   "sector": "Financials",
+   "source": "wikipedia_sp500"
+  },
+  "WDAY": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "WYNN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "XEL": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp500"
+  },
+  "XYL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp500"
+  },
+  "YUM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp500"
+  },
+  "ZBRA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp500"
+  },
+  "ZBH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "ZTS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp500"
+  },
+  "AA": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "AAL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "AAON": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ACI": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "ACM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ADC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "AEIS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "AFG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "AGCO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "AHR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "AIT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ALGM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "ALK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ALLY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "ALSN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ALV": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "AM": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "AMG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "AMH": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "AMKR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "AN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "ANF": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "APG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "APPF": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "AR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "ARMK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "ARW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "ARWR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ASB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "ASH": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "ATI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ATR": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "AVAV": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "AVNT": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "AVT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "AVTR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "AXTA": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "AYI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "BAH": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "BBWI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "BC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "BCO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "BDC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "BHF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "BILL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "BIO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "BJ": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "BKH": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "BMRN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "BRKR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "BROS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "BRX": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "BSY": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "BTSG": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "BURL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "BWA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "BWXT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "BYD": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CACI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CAR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CART": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "CAVA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CBSH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "CBT": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "CCK": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "CDE": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "CDP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "CELH": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "CFR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "CG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "CGNX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "CHDN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CHE": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "CHH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CHRD": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "CHWY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CLF": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "CLH": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CMC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "CNH": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CNM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CNO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "CNX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "COKE": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "COLB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "COLM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CPRI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CRBG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "CROX": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "CRS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CRUS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "CSL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CTRE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "CUBE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "CUZ": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "CVLT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "CW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "CXT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "CYTK": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "DAR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "DBX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "DCI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "DINO": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "DKS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "DLB": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "DOCN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "DOCS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "DOCU": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "DT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "DTM": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "DUOL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "DY": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "EEFT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "EGP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "EHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ELAN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ELF": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "ELS": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "ENS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ENSG": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ENTG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "EPR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "EQH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "ESAB": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ESNT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "EVR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "EWBC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "EXEL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "EXLS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "EXP": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "EXPO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "FAF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FBIN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "FCFS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FCN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "FFIN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FHI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FHN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FIVE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "FLG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FLR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "FLS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "FN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "FNB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FND": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "FNF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FOUR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "FR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "FTI": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "G": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "GAP": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "GATX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "GBCI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "GEF": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "GGG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "GHC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "GLPI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "GME": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "GMED": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "GNTX": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "GPK": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "GWRE": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "GXO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "H": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "HAE": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "HALO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "HGV": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "HIMS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "HL": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "HLI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "HLNE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "HOG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "HOMB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "HQY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "HR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "HRB": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "HWC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "HXL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "IBOC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "IDA": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "IDCC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "IESC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ILMN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "INGR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "IPGP": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "IRT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "ITT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "JAZZ": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "JEF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "JLL": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "KBH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "KBR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "KD": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "KEX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "KNF": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "KNSL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "KNX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "KRC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "KRG": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "KRYS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "KTOS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "LAD": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "LAMR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "LEA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "LECO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "LFUS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "LIVN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "LNTH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "LOPE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "LPX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "LSCC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "LSTR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "M": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "MANH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "MAT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "MEDP": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "MIDD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MKSI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "MLI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MMS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MOG-A": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MOH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "MORN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "MP": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "MSA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MSM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MTDR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "MTG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "MTN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "MTSI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "MTZ": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "MUR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "MUSA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "MZTI": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "NBIX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "NEU": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "NFG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "NJR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "NLY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "NNN": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "NOV": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "NOVT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "NTNX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "NVST": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "NVT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "NWE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "NXST": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "NXT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "NYT": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "OC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "OGE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "OGS": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "OHI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "OKTA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "OLED": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "OLLI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "OLN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "ONB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "ONTO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "OPCH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ORA": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "ORI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "OSK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "OVV": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "OZK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "P": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "PAG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "PATH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "PB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "PBF": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "PCTY": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "PEGA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "PEN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "PFGC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "PII": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "PINS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "PK": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "PLNT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "PNFP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "POR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "POST": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "PPC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "PR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "PRI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "PSN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "PVH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "QLYS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "R": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "RBA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "RBC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "REXR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "RGA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "RGEN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "RGLD": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "RH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "RLI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "RMBS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "RNR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "ROIV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "ROKU": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "RPM": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "RRC": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "RRX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "RS": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "RYAN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "RYN": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "SAIA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "SAIC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "SAM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "SANM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "SARO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "SBRA": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "SCI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "SEIC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SFM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "SGI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "SHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "SIGI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SIRI": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "SITM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "SLAB": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "SLGN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "SLM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SMG": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "SMTC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "SN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "SNX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "SOLS": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "SON": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "SPXC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "SR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "SSB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SSD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "ST": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "STAG": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "STRL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "STWD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "SUI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "SWX": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "SYNA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "TCBI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "TEX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "THC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "THG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "THO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "TKR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "TLN": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "TNL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "TOL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "TOST": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "TREX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "TRU": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "TTC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "TTEK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "TTMI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "TWLO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "TXNM": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "TXRH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "UBSI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "UFPI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "UGI": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "ULS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "UMBF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "UNM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "USFD": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp400"
+  },
+  "UTHR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "VAL": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "VC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "VFC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "VIAV": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "VICR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "VLY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "VMI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "VNO": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "VNOM": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "VNT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp400"
+  },
+  "VOYA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "VVV": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "WAL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "WCC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "WEX": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "WFRD": {
+   "sector": "Energy",
+   "source": "wikipedia_sp400"
+  },
+  "WH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "WHR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "WING": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "WLK": {
+   "sector": "Materials",
+   "source": "wikipedia_sp400"
+  },
+  "WMG": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp400"
+  },
+  "WMS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "WPC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp400"
+  },
+  "WSO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "WTFC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "WTRG": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp400"
+  },
+  "WTS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "WWD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "XPO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp400"
+  },
+  "XRAY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp400"
+  },
+  "YETI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp400"
+  },
+  "ZION": {
+   "sector": "Financials",
+   "source": "wikipedia_sp400"
+  },
+  "AAMI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AAP": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "AAT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "ABCB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "ABG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "ABM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ABR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "ACA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ACAD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ACHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ACIW": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ACLS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ACMR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ACT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "ADAM": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "ADEA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ADIG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ADMA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ADNT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "ADT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "ADUS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AEO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "AESI": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "AGNT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "AGO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AGX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AGYS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "AHCO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AIN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AIR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AKR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "ALG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ALGT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ALHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ALKS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ALRM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AMN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AMPH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AMR": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "AMRX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AMSF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AMTM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ANDE": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "ANIP": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AORT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AOSL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "APAM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "APLE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "APOG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ARCB": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ARLO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "AROC": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "ARR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "ASO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "ASTE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ASTH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ATEN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ATMU": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AUB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AVA": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "AWI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AWR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "AX": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "AZTA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "AZZ": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "BANC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BANF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BANR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BBT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BCC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "BCPC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "BFAM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "BFH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BFS": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "BGC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BHE": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "BJRI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "BKE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "BKU": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "BLFS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "BLKB": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "BMI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "BNL": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "BOH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "BOOT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "BOX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "BRC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "BTU": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "BXMT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CACC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CAG": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CAKE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CALM": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CALX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "CALY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CARG": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "CASH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CATY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CBRL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CBU": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "CCOI": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "CCS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CE": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "CENT": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CENTA": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CENX": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "CERT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "CFFN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CHCO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CHEF": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CLSK": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "CNK": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "CNMD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "CNR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "CNS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CNXC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "CNXN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "COCO": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "COHU": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "COLL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "CON": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "CORT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "COTY": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CPB": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "CPF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CPK": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "CRC": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "CRGY": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "CRI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CRK": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "CRSR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "CRVL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "CSR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "CSW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "CTS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "CUBI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CURB": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "CVBF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "CVCO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CVI": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "CVSA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "CWEN": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "CWEN-A": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "CWK": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "CWST": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "CWT": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "CXM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "CXW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "CZR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "DAN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "DAVE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "DBD": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "DCH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "DCOM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "DEA": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "DEI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "DFH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "DFIN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "DGII": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "DIOD": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "DLX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "DMC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "DNOW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "DORM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "DRH": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "DV": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "DXC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "DXPE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "EAT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "EBC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "ECG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ECPG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EFC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EFOR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "EGBN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EIG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EMN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "ENOV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ENPH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ENR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "ENVA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EPAC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "EPAM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "EPC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "EPRT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "ESE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ESI": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "ETSY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "EVTC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "EXTR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "EYE": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "EZPW": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "FBK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FBNC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FBP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FBRT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "FCF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FCPT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "FELE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "FFBC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FHB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FIBK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FIVN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "FIZZ": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "FLO": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "FMC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "FORM": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "FOXF": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "FRPT": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "FSS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "FTDR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "FTRE": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "FUL": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "FULT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "FUN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GBX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "GEO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "GFF": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "GIII": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GKOS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "GNL": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "GNW": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "GO": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "GOLF": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GPI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GPOR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "GRBK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GSHD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "GT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "GTES": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "GTM": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "GTY": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "GVA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HAFC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HASI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HAYW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HCC": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "HCI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HCSG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "HFWA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HIW": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "HLIT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "HLX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "HMN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HNI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HOPE": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HP": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "HRMY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "HSTM": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "HTH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "HTLD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HTO": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "HUBG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "HWKN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "HZO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "IART": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "IBP": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "ICHR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ICUI": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "IIPR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "INDB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "INDV": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "INSP": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "INSW": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "INVA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "INVX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "IOSP": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "IPAR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "IRDM": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "ITGR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "ITRI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "IVT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "JBGS": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "JBLU": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "JBSS": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "JBTM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "JJSF": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "JOE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "JXN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "KAI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "KALU": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "KFY": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "KGS": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "KLIC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "KMPR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "KMT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "KMX": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "KN": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "KNTK": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "KOP": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "KRMN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "KSS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "KTB": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "KWR": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "LAUR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LAZ": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "LBRT": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "LCII": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LEG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LEU": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "LFST": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "LGIH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LIF": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "LGND": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "LKFN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "LKQ": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LMAT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "LNC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "LNN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "LPG": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "LQDA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "LQDT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "LRN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LTC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "LTH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "LUMN": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "LW": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "LXP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "LYFT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "LZ": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "LZB": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MAC": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "MAN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MARA": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "MATW": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MATX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MBC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MBGL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MBIN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "MC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "MCRI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MCY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "MD": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "MDU": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "MFP": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MGEE": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "MGY": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "MHK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MHO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MIR": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "MKTX": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "MLKN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MMI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "MMSI": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "MPT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "MRCY": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MRP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "MRTN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MSEX": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "MSGS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "MTCH": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "MTH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "MTRN": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "MTUS": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "MTX": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "MWA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "MXL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "MYRG": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NABL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "NATL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NAVI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NBHC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NBTB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NE": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "NEO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "NEOG": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "NGVT": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "NHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "NHI": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "NIC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NMIH": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NOG": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "NPK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NPO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NSIT": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NSP": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NSSC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "NTCT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "NTST": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "NWBI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "NWL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "NWN": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "NX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "NXRT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "OFG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "OGN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "OI": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "OII": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "OMCL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "OPLN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "OSIS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "OSW": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "OTTR": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "OUT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "PAHC": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PARR": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "PAYC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "PAYO": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PATK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PBH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PBI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "PCRX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PDFS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PEB": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "PECO": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "PENG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PENN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PFBC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PFS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PGNY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PHIN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PIPR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PJT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PLAB": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PLMR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PLUS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PLXS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PMT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "POOL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "POWI": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "POWL": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "PPLI": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "PRDO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PRG": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PRGO": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PRGS": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "PRIM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "PRK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "PRKS": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PRLB": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "PRSU": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PRVA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PSMT": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "PTCT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PTEN": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "PTGX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "PTON": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "PZZA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "QDEL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "QNST": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "QRVO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "QTWO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "RAMP": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "RAL": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "RCUS": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "RDN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "RDNT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "RELY": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "RES": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "REYN": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "REX": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "REZI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "RHI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "RHP": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "RITM": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "RNG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "RNST": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "ROAD": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ROCK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "ROG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "RRR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "RSI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "RUN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "RUSHA": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "RXO": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "SAFE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "SABR": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SAFT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SAH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SBCF": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SBH": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SBSI": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SCHL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SCL": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "SCSC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "SDGR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "SEDG": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "SEI": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "SEZL": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SFBS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SFNC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SHAK": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SHEN": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "SHO": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "SHOO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SIG": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SKT": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "SKY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SKYW": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "SLG": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "SLVM": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "SM": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "SMP": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SMPL": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "SNDR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "SNEX": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SONO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SPHR": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "SPNT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "SPSC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "SRPT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "STAA": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "STBA": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "STC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "STEP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "STRA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "SUPN": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "SXI": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "SXT": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "TALO": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "TBBK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "TDC": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "TDS": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "TDW": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "TFIN": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "TFX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "TGTX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "THRM": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "TILE": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "TMDX": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "TMP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "TNC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "TNDM": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "TPC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "TR": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "TRIP": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "TRMK": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "TRN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "TRNO": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "TRST": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "TRUP": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "UA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "UAA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "UCB": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "UCTT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "UE": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "UFCS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "UFPT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "UNF": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "UNFI": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "UNIT": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "UPBD": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "UPWK": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "URBN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "USLM": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "USPH": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "UTI": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "UTL": {
+   "sector": "Utilities",
+   "source": "wikipedia_sp600"
+  },
+  "UVV": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "VAC": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "VCEL": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "VCTR": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "VCYT": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "VECO": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "VGNT": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "VIR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "VIRT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "VRRM": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "VRTS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "VSAT": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "VSEC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "VSH": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "VSNT": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "VSTS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "VSXY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "VTOL": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "VVX": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "VYX": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "WABC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WAFD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WAY": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "WD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WDFC": {
+   "sector": "Consumer Staples",
+   "source": "wikipedia_sp600"
+  },
+  "WEN": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "WERN": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "WGO": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "WHD": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "WINA": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "WKC": {
+   "sector": "Energy",
+   "source": "wikipedia_sp600"
+  },
+  "WLY": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "WOR": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "WRBY": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "WRLD": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WS": {
+   "sector": "Materials",
+   "source": "wikipedia_sp600"
+  },
+  "WSBC": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WSC": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "WSFS": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WT": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WU": {
+   "sector": "Financials",
+   "source": "wikipedia_sp600"
+  },
+  "WWW": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "XHR": {
+   "sector": "Real Estate",
+   "source": "wikipedia_sp600"
+  },
+  "XNCR": {
+   "sector": "Health Care",
+   "source": "wikipedia_sp600"
+  },
+  "XPEL": {
+   "sector": "Consumer Discretionary",
+   "source": "wikipedia_sp600"
+  },
+  "YELP": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "YOU": {
+   "sector": "Information Technology",
+   "source": "wikipedia_sp600"
+  },
+  "ZD": {
+   "sector": "Communication Services",
+   "source": "wikipedia_sp600"
+  },
+  "ZWS": {
+   "sector": "Industrials",
+   "source": "wikipedia_sp600"
+  },
+  "AAOI": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3674",
+   "sic_name": "Semiconductors & Related Devices"
+  },
+  "ADTN": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3661",
+   "sic_name": "Telephone & Telegraph Apparatus"
+  },
+  "AHRT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6500",
+   "sic_name": "Real Estate"
+  },
+  "AIV": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "AMCX": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4841",
+   "sic_name": "Cable & Other Pay Television Services"
+  },
+  "ANGI": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "7310",
+   "sic_name": "Services-Advertising"
+  },
+  "ANGO": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3841",
+   "sic_name": "Surgical & Medical Instruments & Apparatus"
+  },
+  "APEI": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "8200",
+   "sic_name": "Services-Educational Services"
+  },
+  "APPS": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6794",
+   "sic_name": "Patent Owners & Lessors"
+  },
+  "ARI": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "ASIX": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2821",
+   "sic_name": "Plastic Materials, Synth Resins & Nonvulcan Elastomers"
+  },
+  "ATNI": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4813",
+   "sic_name": "Telephone Communications (No Radiotelephone)"
+  },
+  "AVD": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2870",
+   "sic_name": "Agricultural Chemicals"
+  },
+  "B": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "1040",
+   "sic_name": "Gold and Silver Ores"
+  },
+  "BDN": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "BELFB": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3677",
+   "sic_name": "Electronic Coils, Transformers & Other Inductors"
+  },
+  "BGS": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2000",
+   "sic_name": "Food and Kindred Products"
+  },
+  "BLMN": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "BNED": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5940",
+   "sic_name": "Retail-Miscellaneous Shopping Goods Stores"
+  },
+  "BOOM": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3390",
+   "sic_name": "Miscellaneous Primary Metal Products"
+  },
+  "BRBR": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2000",
+   "sic_name": "Food and Kindred Products"
+  },
+  "CABO": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4841",
+   "sic_name": "Cable & Other Pay Television Services"
+  },
+  "CAL": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3140",
+   "sic_name": "Footwear, (No Rubber)"
+  },
+  "CARS": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7374",
+   "sic_name": "Services-Computer Processing & Data Preparation"
+  },
+  "CATO": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5621",
+   "sic_name": "Retail-Women's Clothing Stores"
+  },
+  "CCSI": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "CEVA": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7370",
+   "sic_name": "Services-Computer Programming, Data Processing, Etc."
+  },
+  "CHCT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "CHRS": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2836",
+   "sic_name": "Biological Products, (No Diagnostic Substances)"
+  },
+  "CLB": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1389",
+   "sic_name": "Oil & Gas Field Services, NEC"
+  },
+  "CLDT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "CLFD": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3661",
+   "sic_name": "Telephone & Telegraph Apparatus"
+  },
+  "CLW": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2631",
+   "sic_name": "Paperboard Mills"
+  },
+  "CMP": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "1400",
+   "sic_name": "Mining & Quarrying of  Nonmetallic Minerals (No Fuels)"
+  },
+  "CMTL": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3663",
+   "sic_name": "Radio & Tv Broadcasting & Communications Equipment"
+  },
+  "CPS": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3714",
+   "sic_name": "Motor Vehicle Parts & Accessories"
+  },
+  "CRMT": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5500",
+   "sic_name": "Retail-Auto Dealers & Gasoline Stations"
+  },
+  "CRNC": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "CTKB": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3826",
+   "sic_name": "Laboratory Analytical Instruments"
+  },
+  "CYH": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "8062",
+   "sic_name": "Services-General Medical & Surgical Hospitals, NEC"
+  },
+  "DAKT": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3990",
+   "sic_name": "Miscellaneous Manufacturing Industries"
+  },
+  "DBI": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5661",
+   "sic_name": "Retail-Shoe Stores"
+  },
+  "DDD": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "DDS": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5311",
+   "sic_name": "Retail-Department Stores"
+  },
+  "DHC": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "DIN": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "DOUG": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6531",
+   "sic_name": "Real Estate Agents & Managers (For Others)"
+  },
+  "EBS": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "EGHT": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7374",
+   "sic_name": "Services-Computer Processing & Data Preparation"
+  },
+  "EHTH": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6411",
+   "sic_name": "Insurance Agents, Brokers & Service"
+  },
+  "ELME": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "EMBC": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3841",
+   "sic_name": "Surgical & Medical Instruments & Apparatus"
+  },
+  "ETD": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "2511",
+   "sic_name": "Wood Household Furniture, (No Upholstered)"
+  },
+  "FF": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2860",
+   "sic_name": "Industrial Organic Chemicals"
+  },
+  "FLGT": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "8071",
+   "sic_name": "Services-Medical Laboratories"
+  },
+  "FORR": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "8700",
+   "sic_name": "Services-Engineering, Accounting, Research, Management"
+  },
+  "FOSL": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3873",
+   "sic_name": "Watches, Clocks, Clockwork Operated Devices/Parts"
+  },
+  "FSP": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "FWRD": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "4731",
+   "sic_name": "Arrangement of  Transportation of  Freight & Cargo"
+  },
+  "GCO": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5661",
+   "sic_name": "Retail-Shoe Stores"
+  },
+  "GDOT": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6199",
+   "sic_name": "Finance Services"
+  },
+  "GDYN": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "GEOS": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3829",
+   "sic_name": "Measuring & Controlling Devices, NEC"
+  },
+  "GOGO": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4899",
+   "sic_name": "Communications Services, NEC"
+  },
+  "GPMT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "GPRE": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2860",
+   "sic_name": "Industrial Organic Chemicals"
+  },
+  "GTX": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3714",
+   "sic_name": "Motor Vehicle Parts & Accessories"
+  },
+  "HAIN": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2000",
+   "sic_name": "Food and Kindred Products"
+  },
+  "HELE": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3634",
+   "sic_name": "Electric Housewares & Fans"
+  },
+  "HPP": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6500",
+   "sic_name": "Real Estate"
+  },
+  "HTZ": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "7510",
+   "sic_name": "Services-Auto Rental & Leasing (No Drivers)"
+  },
+  "HVT": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5712",
+   "sic_name": "Retail-Furniture Stores"
+  },
+  "IIIN": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3310",
+   "sic_name": "Steel Works, Blast Furnaces & Rolling & Finishing Mills"
+  },
+  "ILPT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "INGN": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3842",
+   "sic_name": "Orthopedic, Prosthetic & Surgical Appliances & Supplies"
+  },
+  "INN": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "IRWD": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "IVR": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "JACK": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "JRVR": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6331",
+   "sic_name": "Fire, Marine & Casualty Insurance"
+  },
+  "JYNT": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6794",
+   "sic_name": "Patent Owners & Lessors"
+  },
+  "KELYA": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7363",
+   "sic_name": "Services-Help Supply Services"
+  },
+  "KREF": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "LESL": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5990",
+   "sic_name": "Retail-Retail Stores, NEC"
+  },
+  "LOCO": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "LPSN": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "LXU": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2810",
+   "sic_name": "Industrial Inorganic Chemicals"
+  },
+  "MATV": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2621",
+   "sic_name": "Paper Mills"
+  },
+  "MCS": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "7830",
+   "sic_name": "Services-Motion Picture Theaters"
+  },
+  "MED": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2090",
+   "sic_name": "Miscellaneous Food Preparations & Kindred Products"
+  },
+  "MEI": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3678",
+   "sic_name": "Electronic Connectors"
+  },
+  "MERC": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2611",
+   "sic_name": "Pulp Mills"
+  },
+  "MGPI": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "5180",
+   "sic_name": "Wholesale-Beer, Wine & Distilled Alcoholic Beverages"
+  },
+  "MLAB": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3823",
+   "sic_name": "Industrial Instruments For Measurement, Display, and Control"
+  },
+  "MNRO": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "7500",
+   "sic_name": "Services-Automotive Repair, Services & Parking"
+  },
+  "MOV": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3873",
+   "sic_name": "Watches, Clocks, Clockwork Operated Devices/Parts"
+  },
+  "MPAA": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3714",
+   "sic_name": "Motor Vehicle Parts & Accessories"
+  },
+  "MSTR": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6199",
+   "sic_name": "Finance Services"
+  },
+  "MTRX": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "1700",
+   "sic_name": "Construction - Special Trade Contractors"
+  },
+  "MYE": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3089",
+   "sic_name": "Plastics Products, NEC"
+  },
+  "MYGN": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2835",
+   "sic_name": "In Vitro & In Vivo Diagnostic Substances"
+  },
+  "NBR": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1381",
+   "sic_name": "Drilling Oil & Gas Wells"
+  },
+  "NKTR": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "NTGR": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3576",
+   "sic_name": "Computer Communications Equipment"
+  },
+  "NUS": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "5122",
+   "sic_name": "Wholesale-Drugs, Proprietaries & Druggists' Sundries"
+  },
+  "NVRI": {
+   "sector": "Utilities",
+   "source": "sec_sic",
+   "sic": "4953",
+   "sic_name": "Refuse Systems"
+  },
+  "OFIX": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3841",
+   "sic_name": "Surgical & Medical Instruments & Apparatus"
+  },
+  "OIS": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "3533",
+   "sic_name": "Oil & Gas Field Machinery & Equipment"
+  },
+  "ONL": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "OPRX": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7389",
+   "sic_name": "Services-Business Services, NEC"
+  },
+  "ORGO": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "OSPN": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7373",
+   "sic_name": "Services-Computer Integrated Systems Design"
+  },
+  "OSUR": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3841",
+   "sic_name": "Surgical & Medical Instruments & Apparatus"
+  },
+  "OXM": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "2320",
+   "sic_name": "Men's & Boys' Furnishgs, Work Clothg, & Allied Garments"
+  },
+  "PETS": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5912",
+   "sic_name": "Retail-Drug Stores and Proprietary Stores"
+  },
+  "PKE": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "3728",
+   "sic_name": "Aircraft Parts & Auxiliary Equipment, NEC"
+  },
+  "PLAY": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "PLCE": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5651",
+   "sic_name": "Retail-Family Clothing Stores"
+  },
+  "PNTG": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "8000",
+   "sic_name": "Services-Health Services"
+  },
+  "PRAA": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6153",
+   "sic_name": "Short-Term Business Credit Institutions"
+  },
+  "PUMP": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1389",
+   "sic_name": "Oil & Gas Field Services, NEC"
+  },
+  "QURE": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "RC": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "REI": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1311",
+   "sic_name": "Crude Petroleum & Natural Gas"
+  },
+  "RGNX": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2836",
+   "sic_name": "Biological Products, (No Diagnostic Substances)"
+  },
+  "RGP": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7389",
+   "sic_name": "Services-Business Services, NEC"
+  },
+  "RGR": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "3480",
+   "sic_name": "Ordnance & Accessories, (No Vehicles/Guided Missiles)"
+  },
+  "RGS": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "7200",
+   "sic_name": "Services-Personal Services"
+  },
+  "RIG": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1381",
+   "sic_name": "Drilling Oil & Gas Wells"
+  },
+  "RILY": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6282",
+   "sic_name": "Investment Advice"
+  },
+  "RMAX": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6531",
+   "sic_name": "Real Estate Agents & Managers (For Others)"
+  },
+  "RPT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "RRGB": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5812",
+   "sic_name": "Retail-Eating  Places"
+  },
+  "RWT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "RYAM": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "2611",
+   "sic_name": "Pulp Mills"
+  },
+  "SENEA": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2033",
+   "sic_name": "Canned, Fruits, Veg, Preserves, Jams & Jellies"
+  },
+  "SITC": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "SLP": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7373",
+   "sic_name": "Services-Computer Integrated Systems Design"
+  },
+  "SLQT": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6411",
+   "sic_name": "Insurance Agents, Brokers & Service"
+  },
+  "SPOK": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4812",
+   "sic_name": "Radiotelephone Communications"
+  },
+  "SPWR": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "1700",
+   "sic_name": "Construction - Special Trade Contractors"
+  },
+  "SSP": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4833",
+   "sic_name": "Television Broadcasting Stations"
+  },
+  "SSTK": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7374",
+   "sic_name": "Services-Computer Processing & Data Preparation"
+  },
+  "SVC": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "SXC": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3312",
+   "sic_name": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+  },
+  "TBI": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7363",
+   "sic_name": "Services-Help Supply Services"
+  },
+  "TCMD": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "3841",
+   "sic_name": "Surgical & Medical Instruments & Apparatus"
+  },
+  "TG": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3350",
+   "sic_name": "Rolling Drawing & Extruding of  Nonferrous Metals"
+  },
+  "THRY": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "7310",
+   "sic_name": "Services-Advertising"
+  },
+  "TISI": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "7600",
+   "sic_name": "Services-Miscellaneous Repair Services"
+  },
+  "TREE": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6163",
+   "sic_name": "Loan Brokers"
+  },
+  "TTEC": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7363",
+   "sic_name": "Services-Help Supply Services"
+  },
+  "TTGT": {
+   "sector": "Communication Services",
+   "source": "sec_sic",
+   "sic": "4822",
+   "sic_name": "Telegraph & Other Message Communications"
+  },
+  "TTI": {
+   "sector": "Energy",
+   "source": "sec_sic",
+   "sic": "1311",
+   "sic_name": "Crude Petroleum & Natural Gas"
+  },
+  "TWI": {
+   "sector": "Materials",
+   "source": "sec_sic",
+   "sic": "3312",
+   "sic_name": "Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)"
+  },
+  "TWO": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "UEIC": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3651",
+   "sic_name": "Household Audio & Video Equipment"
+  },
+  "UFI": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "2200",
+   "sic_name": "Textile Mill Products"
+  },
+  "UHT": {
+   "sector": "Real Estate",
+   "source": "sec_sic",
+   "sic": "6798",
+   "sic_name": "Real Estate Investment Trusts"
+  },
+  "UIS": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7373",
+   "sic_name": "Services-Computer Integrated Systems Design"
+  },
+  "USNA": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2833",
+   "sic_name": "Medicinal Chemicals & Botanical Products"
+  },
+  "UVE": {
+   "sector": "Financials",
+   "source": "sec_sic",
+   "sic": "6331",
+   "sic_name": "Fire, Marine & Casualty Insurance"
+  },
+  "VITL": {
+   "sector": "Consumer Staples",
+   "source": "sec_sic",
+   "sic": "2000",
+   "sic_name": "Food and Kindred Products"
+  },
+  "VIVO": {
+   "sector": "Utilities",
+   "source": "sec_sic",
+   "sic": "4931",
+   "sic_name": "Electric & Other Services Combined"
+  },
+  "VNDA": {
+   "sector": "Health Care",
+   "source": "sec_sic",
+   "sic": "2834",
+   "sic_name": "Pharmaceutical Preparations"
+  },
+  "VRA": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "3100",
+   "sic_name": "Leather & Leather Products"
+  },
+  "VREX": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3679",
+   "sic_name": "Electronic Components, NEC"
+  },
+  "WNC": {
+   "sector": "Industrials",
+   "source": "sec_sic",
+   "sic": "3715",
+   "sic_name": "Truck Trailers"
+  },
+  "XPER": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "7372",
+   "sic_name": "Services-Prepackaged Software"
+  },
+  "XRX": {
+   "sector": "Information Technology",
+   "source": "sec_sic",
+   "sic": "3577",
+   "sic_name": "Computer Peripheral Equipment, NEC"
+  },
+  "ZUMZ": {
+   "sector": "Consumer Discretionary",
+   "source": "sec_sic",
+   "sic": "5600",
+   "sic_name": "Retail-Apparel & Accessory Stores"
+  },
+  "AET": {
+   "sector": "Health Care",
+   "source": "manual"
+  },
+  "ANDV": {
+   "sector": "Energy",
+   "source": "manual"
+  },
+  "BMS": {
+   "sector": "Materials",
+   "source": "manual"
+  },
+  "COL": {
+   "sector": "Industrials",
+   "source": "manual"
+  },
+  "ESRX": {
+   "sector": "Health Care",
+   "source": "manual"
+  },
+  "EVHC": {
+   "sector": "Health Care",
+   "source": "manual"
+  },
+  "HAR": {
+   "sector": "Information Technology",
+   "source": "manual"
+  },
+  "HOT": {
+   "sector": "Consumer Discretionary",
+   "source": "manual"
+  },
+  "SCG": {
+   "sector": "Utilities",
+   "source": "manual"
+  },
+  "TWX": {
+   "sector": "Communication Services",
+   "source": "manual"
+  },
+  "XLC": {
+   "sector": "Communication Services",
+   "source": "is_the_sector_etf"
+  },
+  "XLY": {
+   "sector": "Consumer Discretionary",
+   "source": "is_the_sector_etf"
+  },
+  "XLP": {
+   "sector": "Consumer Staples",
+   "source": "is_the_sector_etf"
+  },
+  "XLE": {
+   "sector": "Energy",
+   "source": "is_the_sector_etf"
+  },
+  "XLF": {
+   "sector": "Financials",
+   "source": "is_the_sector_etf"
+  },
+  "XLV": {
+   "sector": "Health Care",
+   "source": "is_the_sector_etf"
+  },
+  "XLI": {
+   "sector": "Industrials",
+   "source": "is_the_sector_etf"
+  },
+  "XLK": {
+   "sector": "Information Technology",
+   "source": "is_the_sector_etf"
+  },
+  "XLB": {
+   "sector": "Materials",
+   "source": "is_the_sector_etf"
+  },
+  "XLRE": {
+   "sector": "Real Estate",
+   "source": "is_the_sector_etf"
+  },
+  "XLU": {
+   "sector": "Utilities",
+   "source": "is_the_sector_etf"
+  }
+ }
+}

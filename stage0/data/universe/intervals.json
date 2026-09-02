@@ -1,0 +1,4383 @@
+{
+ "built_at": "2026-09-01T07:25:40.538063+00:00",
+ "as_of": "2026-09-01",
+ "since": "2016-01-01",
+ "source_current": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+ "source_changes": "https://en.wikipedia.org/wiki/Historical_components_of_the_S%26P_500",
+ "spells": [
+  {
+   "ticker": "A",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AA",
+   "start": "2016-01-01",
+   "end": "2016-11-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AAL",
+   "start": "2016-01-01",
+   "end": "2024-09-23",
+   "left_because": null
+  },
+  {
+   "ticker": "AAP",
+   "start": "2016-01-01",
+   "end": "2023-08-25",
+   "left_because": null
+  },
+  {
+   "ticker": "AAPL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ABBV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ABMD",
+   "start": "2018-05-31",
+   "end": "2022-12-22",
+   "left_because": null
+  },
+  {
+   "ticker": "ABNB",
+   "start": "2023-09-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ABT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ACE",
+   "start": "2016-01-01",
+   "end": "2016-01-19",
+   "left_because": null
+  },
+  {
+   "ticker": "ACGL",
+   "start": "2022-11-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ACN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADBE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADS",
+   "start": "2016-01-01",
+   "end": "2020-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "ADSK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ADT",
+   "start": "2016-01-01",
+   "end": "2016-05-03",
+   "left_because": null
+  },
+  {
+   "ticker": "AEE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AEP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AES",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AET",
+   "start": "2016-01-01",
+   "end": "2018-12-03",
+   "left_because": null
+  },
+  {
+   "ticker": "AFL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AGN",
+   "start": "2016-01-01",
+   "end": "2020-05-12",
+   "left_because": null
+  },
+  {
+   "ticker": "AIG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AIV",
+   "start": "2016-01-01",
+   "end": "2020-12-21",
+   "left_because": null
+  },
+  {
+   "ticker": "AIZ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AJG",
+   "start": "2016-05-31",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AKAM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ALB",
+   "start": "2016-07-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ALGN",
+   "start": "2017-06-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ALK",
+   "start": "2016-05-13",
+   "end": "2023-12-18",
+   "left_because": null
+  },
+  {
+   "ticker": "ALL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ALLE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ALXN",
+   "start": "2016-01-01",
+   "end": "2021-07-21",
+   "left_because": null
+  },
+  {
+   "ticker": "AMAT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMCR",
+   "start": "2019-06-11",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMD",
+   "start": "2017-03-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AME",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMG",
+   "start": "2016-01-01",
+   "end": "2019-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "AMGN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AMTM",
+   "start": "2024-09-30",
+   "end": "2024-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "AMZN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AN",
+   "start": "2016-01-01",
+   "end": "2017-08-08",
+   "left_because": null
+  },
+  {
+   "ticker": "ANDV",
+   "start": "2016-01-01",
+   "end": "2018-10-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ANET",
+   "start": "2018-08-28",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ANSS",
+   "start": "2017-06-19",
+   "end": "2025-07-18",
+   "left_because": null
+  },
+  {
+   "ticker": "AON",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AOS",
+   "start": "2017-07-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APC",
+   "start": "2016-01-01",
+   "end": "2019-08-09",
+   "left_because": null
+  },
+  {
+   "ticker": "APD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APO",
+   "start": "2024-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APP",
+   "start": "2025-09-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "APTV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ARE",
+   "start": "2017-03-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ARES",
+   "start": "2025-12-11",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ARG",
+   "start": "2016-01-01",
+   "end": "2016-05-23",
+   "left_because": null
+  },
+  {
+   "ticker": "ARNC",
+   "start": "2016-11-01",
+   "end": "2020-04-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ATO",
+   "start": "2019-02-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ATVI",
+   "start": "2016-01-01",
+   "end": "2023-10-18",
+   "left_because": null
+  },
+  {
+   "ticker": "AVB",
+   "start": "2016-01-01",
+   "end": "2026-08-18",
+   "left_because": null
+  },
+  {
+   "ticker": "AVGO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AVY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AWK",
+   "start": "2016-03-04",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AXON",
+   "start": "2023-05-04",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AXP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "AYI",
+   "start": "2016-05-03",
+   "end": "2018-06-18",
+   "left_because": null
+  },
+  {
+   "ticker": "AZO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BAC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BALL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BAX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BBBY",
+   "start": "2016-01-01",
+   "end": "2017-07-26",
+   "left_because": null
+  },
+  {
+   "ticker": "BBWI",
+   "start": "2016-01-01",
+   "end": "2024-10-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BBY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BCR",
+   "start": "2016-01-01",
+   "end": "2018-01-03",
+   "left_because": null
+  },
+  {
+   "ticker": "BDX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BEN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BF-B",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BG",
+   "start": "2023-03-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BHF",
+   "start": "2017-08-08",
+   "end": "2019-04-02",
+   "left_because": null
+  },
+  {
+   "ticker": "BHI",
+   "start": "2016-01-01",
+   "end": "2017-07-07",
+   "left_because": null
+  },
+  {
+   "ticker": "BIIB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BIO",
+   "start": "2020-06-22",
+   "end": "2024-09-23",
+   "left_because": null
+  },
+  {
+   "ticker": "BKNG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BKR",
+   "start": "2017-07-07",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BLDR",
+   "start": "2023-12-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BLK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BMS",
+   "start": "2019-06-07",
+   "end": "2019-06-11",
+   "left_because": null
+  },
+  {
+   "ticker": "BMY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BNY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BR",
+   "start": "2018-06-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BRCM",
+   "start": "2016-01-01",
+   "end": "2016-02-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BRK-B",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BRO",
+   "start": "2021-09-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BSX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BWA",
+   "start": "2016-01-01",
+   "end": "2025-03-24",
+   "left_because": null
+  },
+  {
+   "ticker": "BX",
+   "start": "2023-09-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "BXLT",
+   "start": "2016-01-01",
+   "end": "2016-06-03",
+   "left_because": null
+  },
+  {
+   "ticker": "BXP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "C",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CA",
+   "start": "2016-01-01",
+   "end": "2018-11-06",
+   "left_because": null
+  },
+  {
+   "ticker": "CAG",
+   "start": "2016-01-01",
+   "end": "2026-06-30",
+   "left_because": null
+  },
+  {
+   "ticker": "CAH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CAM",
+   "start": "2016-01-01",
+   "end": "2016-04-04",
+   "left_because": null
+  },
+  {
+   "ticker": "CARR",
+   "start": "2020-04-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CASY",
+   "start": "2026-04-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CAT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CBOE",
+   "start": "2017-03-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CBRE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CCE",
+   "start": "2016-01-01",
+   "end": "2016-05-31",
+   "left_because": null
+  },
+  {
+   "ticker": "CCI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CCL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CDAY",
+   "start": "2021-09-20",
+   "end": "2024-02-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CDNS",
+   "start": "2017-09-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CDW",
+   "start": "2019-09-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CE",
+   "start": "2018-12-24",
+   "end": "2025-03-24",
+   "left_because": null
+  },
+  {
+   "ticker": "CEG",
+   "start": "2022-02-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CELG",
+   "start": "2016-01-01",
+   "end": "2019-11-21",
+   "left_because": null
+  },
+  {
+   "ticker": "CERN",
+   "start": "2016-01-01",
+   "end": "2022-06-08",
+   "left_because": null
+  },
+  {
+   "ticker": "CF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CFG",
+   "start": "2016-02-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CHD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CHK",
+   "start": "2016-01-01",
+   "end": "2018-03-19",
+   "left_because": null
+  },
+  {
+   "ticker": "CHRW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CHTR",
+   "start": "2016-09-08",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CIEN",
+   "start": "2026-02-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CINF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CLX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CMA",
+   "start": "2016-01-01",
+   "end": "2024-06-24",
+   "left_because": null
+  },
+  {
+   "ticker": "CMCSA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CME",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CMG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CMI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CMS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CNC",
+   "start": "2016-03-30",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CNP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CNX",
+   "start": "2016-01-01",
+   "end": "2016-03-04",
+   "left_because": null
+  },
+  {
+   "ticker": "COF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COHR",
+   "start": "2026-03-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COIN",
+   "start": "2025-05-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COL",
+   "start": "2016-01-01",
+   "end": "2018-12-03",
+   "left_because": null
+  },
+  {
+   "ticker": "COO",
+   "start": "2016-09-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COST",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "COTY",
+   "start": "2016-09-30",
+   "end": "2020-09-21",
+   "left_because": null
+  },
+  {
+   "ticker": "CPAY",
+   "start": "2024-03-25",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CPB",
+   "start": "2016-01-01",
+   "end": "2026-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "CPGX",
+   "start": "2016-01-01",
+   "end": "2016-07-05",
+   "left_because": null
+  },
+  {
+   "ticker": "CPRI",
+   "start": "2016-01-01",
+   "end": "2020-05-12",
+   "left_because": null
+  },
+  {
+   "ticker": "CPRT",
+   "start": "2018-07-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CPT",
+   "start": "2022-04-04",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CRH",
+   "start": "2025-12-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CRL",
+   "start": "2021-05-14",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CRM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CRWD",
+   "start": "2024-06-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CSCO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CSGP",
+   "start": "2022-09-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CSRA",
+   "start": "2016-01-01",
+   "end": "2018-04-04",
+   "left_because": null
+  },
+  {
+   "ticker": "CSX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CTAS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CTLT",
+   "start": "2020-09-21",
+   "end": "2024-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "CTRA",
+   "start": "2016-01-01",
+   "end": "2026-05-07",
+   "left_because": null
+  },
+  {
+   "ticker": "CTSH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CTVA",
+   "start": "2019-06-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CTXS",
+   "start": "2016-01-01",
+   "end": "2022-10-03",
+   "left_because": null
+  },
+  {
+   "ticker": "CVC",
+   "start": "2016-01-01",
+   "end": "2016-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "CVNA",
+   "start": "2025-12-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CVS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CVX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "CXO",
+   "start": "2016-02-22",
+   "end": "2021-01-21",
+   "left_because": null
+  },
+  {
+   "ticker": "CZR",
+   "start": "2021-03-22",
+   "end": "2025-09-22",
+   "left_because": null
+  },
+  {
+   "ticker": "D",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DAL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DASH",
+   "start": "2025-03-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DAY",
+   "start": "2024-02-01",
+   "end": "2026-02-09",
+   "left_because": null
+  },
+  {
+   "ticker": "DD",
+   "start": "2016-01-01",
+   "end": "2017-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DD",
+   "start": "2019-06-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DDOG",
+   "start": "2025-07-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DECK",
+   "start": "2024-03-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DELL",
+   "start": "2024-09-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DFS",
+   "start": "2016-01-01",
+   "end": "2025-05-19",
+   "left_because": null
+  },
+  {
+   "ticker": "DG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DGX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DHI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DHR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DIS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DISCA",
+   "start": "2016-01-01",
+   "end": "2022-04-11",
+   "left_because": null
+  },
+  {
+   "ticker": "DISCK",
+   "start": "2016-01-01",
+   "end": "2022-04-11",
+   "left_because": null
+  },
+  {
+   "ticker": "DISH",
+   "start": "2017-03-13",
+   "end": "2023-06-20",
+   "left_because": null
+  },
+  {
+   "ticker": "DLR",
+   "start": "2016-05-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DLTR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DNB",
+   "start": "2016-01-01",
+   "end": "2017-04-05",
+   "left_because": null
+  },
+  {
+   "ticker": "DO",
+   "start": "2016-01-01",
+   "end": "2016-09-30",
+   "left_because": null
+  },
+  {
+   "ticker": "DOC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DOV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DOW",
+   "start": "2016-01-01",
+   "end": "2017-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DOW",
+   "start": "2019-04-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DPS",
+   "start": "2016-01-01",
+   "end": "2018-07-02",
+   "left_because": null
+  },
+  {
+   "ticker": "DPZ",
+   "start": "2020-05-12",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DRE",
+   "start": "2017-07-26",
+   "end": "2022-10-03",
+   "left_because": null
+  },
+  {
+   "ticker": "DRI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DTE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DUK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DVA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DVN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "DWDP",
+   "start": "2017-09-01",
+   "end": "2019-06-03",
+   "left_because": null
+  },
+  {
+   "ticker": "DXC",
+   "start": "2017-04-04",
+   "end": "2023-10-03",
+   "left_because": null
+  },
+  {
+   "ticker": "DXCM",
+   "start": "2020-05-12",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EA",
+   "start": "2016-01-01",
+   "end": "2026-08-05",
+   "left_because": null
+  },
+  {
+   "ticker": "EBAY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ECHO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ECL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ED",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EFX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EIX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ELV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EMC",
+   "start": "2016-01-01",
+   "end": "2016-09-08",
+   "left_because": null
+  },
+  {
+   "ticker": "EME",
+   "start": "2025-09-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EMN",
+   "start": "2016-01-01",
+   "end": "2025-11-04",
+   "left_because": null
+  },
+  {
+   "ticker": "EMR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ENDP",
+   "start": "2016-01-01",
+   "end": "2017-03-02",
+   "left_because": null
+  },
+  {
+   "ticker": "ENPH",
+   "start": "2021-01-07",
+   "end": "2025-09-22",
+   "left_because": null
+  },
+  {
+   "ticker": "EOG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EPAM",
+   "start": "2021-12-14",
+   "end": "2026-06-02",
+   "left_because": null
+  },
+  {
+   "ticker": "EQIX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EQT",
+   "start": "2016-01-01",
+   "end": "2018-11-13",
+   "left_because": null
+  },
+  {
+   "ticker": "EQT",
+   "start": "2022-10-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ERIE",
+   "start": "2024-09-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ES",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ESRX",
+   "start": "2016-01-01",
+   "end": "2018-12-24",
+   "left_because": null
+  },
+  {
+   "ticker": "ESS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ESV",
+   "start": "2016-01-01",
+   "end": "2016-03-30",
+   "left_because": null
+  },
+  {
+   "ticker": "ETFC",
+   "start": "2016-01-01",
+   "end": "2020-10-07",
+   "left_because": null
+  },
+  {
+   "ticker": "ETN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ETR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ETSY",
+   "start": "2020-09-21",
+   "end": "2024-09-23",
+   "left_because": null
+  },
+  {
+   "ticker": "EVHC",
+   "start": "2016-12-02",
+   "end": "2018-10-11",
+   "left_because": null
+  },
+  {
+   "ticker": "EVRG",
+   "start": "2018-06-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EXC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EXE",
+   "start": "2025-03-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EXPD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EXPE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "EXR",
+   "start": "2016-01-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "F",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FANG",
+   "start": "2018-12-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FAST",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FBHS",
+   "start": "2016-06-22",
+   "end": "2022-12-19",
+   "left_because": null
+  },
+  {
+   "ticker": "FCX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FDS",
+   "start": "2021-12-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FDX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FDXF",
+   "start": "2026-06-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FERG",
+   "start": "2026-08-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FFIV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FICO",
+   "start": "2023-03-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FIS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FISV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FITB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FIX",
+   "start": "2025-12-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FL",
+   "start": "2016-04-04",
+   "end": "2019-08-09",
+   "left_because": null
+  },
+  {
+   "ticker": "FLEX",
+   "start": "2026-06-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FLIR",
+   "start": "2016-01-01",
+   "end": "2021-05-14",
+   "left_because": null
+  },
+  {
+   "ticker": "FLR",
+   "start": "2016-01-01",
+   "end": "2019-06-03",
+   "left_because": null
+  },
+  {
+   "ticker": "FLS",
+   "start": "2016-01-01",
+   "end": "2021-03-22",
+   "left_because": null
+  },
+  {
+   "ticker": "FLT",
+   "start": "2018-06-20",
+   "end": "2024-03-25",
+   "left_because": null
+  },
+  {
+   "ticker": "FMC",
+   "start": "2016-01-01",
+   "end": "2025-03-24",
+   "left_because": null
+  },
+  {
+   "ticker": "FOSL",
+   "start": "2016-01-01",
+   "end": "2016-01-05",
+   "left_because": null
+  },
+  {
+   "ticker": "FOX",
+   "start": "2016-01-01",
+   "end": "2019-03-19",
+   "left_because": null
+  },
+  {
+   "ticker": "FOX",
+   "start": "2019-03-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FOXA",
+   "start": "2016-01-01",
+   "end": "2019-03-19",
+   "left_because": null
+  },
+  {
+   "ticker": "FOXA",
+   "start": "2019-03-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FRC",
+   "start": "2019-01-02",
+   "end": "2023-05-04",
+   "left_because": null
+  },
+  {
+   "ticker": "FRT",
+   "start": "2016-02-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FSLR",
+   "start": "2016-01-01",
+   "end": "2017-03-20",
+   "left_because": null
+  },
+  {
+   "ticker": "FSLR",
+   "start": "2022-12-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FTI",
+   "start": "2016-01-01",
+   "end": "2021-02-12",
+   "left_because": null
+  },
+  {
+   "ticker": "FTNT",
+   "start": "2018-10-11",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "FTR",
+   "start": "2016-01-01",
+   "end": "2017-03-20",
+   "left_because": null
+  },
+  {
+   "ticker": "FTV",
+   "start": "2016-07-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GAS",
+   "start": "2016-01-01",
+   "end": "2016-07-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GDDY",
+   "start": "2024-06-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GEHC",
+   "start": "2023-01-04",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GEN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GEV",
+   "start": "2024-04-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GGP",
+   "start": "2016-01-01",
+   "end": "2018-08-28",
+   "left_because": null
+  },
+  {
+   "ticker": "GILD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GIS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GLW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GMCR",
+   "start": "2016-01-01",
+   "end": "2016-03-07",
+   "left_because": null
+  },
+  {
+   "ticker": "GME",
+   "start": "2016-01-01",
+   "end": "2016-04-25",
+   "left_because": null
+  },
+  {
+   "ticker": "GNRC",
+   "start": "2021-03-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GOOG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GOOGL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GPC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GPN",
+   "start": "2016-04-25",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GPS",
+   "start": "2016-01-01",
+   "end": "2022-02-03",
+   "left_because": null
+  },
+  {
+   "ticker": "GRMN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "GT",
+   "start": "2016-01-01",
+   "end": "2019-02-27",
+   "left_because": null
+  },
+  {
+   "ticker": "GWW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HAL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HAR",
+   "start": "2016-01-01",
+   "end": "2017-03-16",
+   "left_because": null
+  },
+  {
+   "ticker": "HAS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HBAN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HBI",
+   "start": "2016-01-01",
+   "end": "2021-12-20",
+   "left_because": null
+  },
+  {
+   "ticker": "HCA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HES",
+   "start": "2016-01-01",
+   "end": "2025-07-23",
+   "left_because": null
+  },
+  {
+   "ticker": "HFC",
+   "start": "2018-06-18",
+   "end": "2021-06-04",
+   "left_because": null
+  },
+  {
+   "ticker": "HIG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HII",
+   "start": "2018-01-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HLT",
+   "start": "2017-06-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HOG",
+   "start": "2016-01-01",
+   "end": "2020-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "HOLX",
+   "start": "2016-03-30",
+   "end": "2026-04-09",
+   "left_because": null
+  },
+  {
+   "ticker": "HON",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HONA",
+   "start": "2026-06-29",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HOOD",
+   "start": "2025-09-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HOT",
+   "start": "2016-01-01",
+   "end": "2016-09-22",
+   "left_because": null
+  },
+  {
+   "ticker": "HP",
+   "start": "2016-01-01",
+   "end": "2020-05-22",
+   "left_because": null
+  },
+  {
+   "ticker": "HPE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HPQ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HRB",
+   "start": "2016-01-01",
+   "end": "2020-09-21",
+   "left_because": null
+  },
+  {
+   "ticker": "HRL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HSIC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HST",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HSY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HUBB",
+   "start": "2023-10-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HUM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "HWM",
+   "start": "2020-04-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IBKR",
+   "start": "2025-08-28",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IBM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ICE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IDXX",
+   "start": "2017-01-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IEX",
+   "start": "2019-08-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IFF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ILMN",
+   "start": "2016-01-01",
+   "end": "2024-06-24",
+   "left_because": null
+  },
+  {
+   "ticker": "INCY",
+   "start": "2017-02-28",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "INFO",
+   "start": "2017-06-02",
+   "end": "2022-03-02",
+   "left_because": null
+  },
+  {
+   "ticker": "INTC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "INTU",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "INVH",
+   "start": "2022-09-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IPG",
+   "start": "2016-01-01",
+   "end": "2025-11-28",
+   "left_because": null
+  },
+  {
+   "ticker": "IPGP",
+   "start": "2018-03-07",
+   "end": "2022-06-21",
+   "left_because": null
+  },
+  {
+   "ticker": "IQV",
+   "start": "2017-11-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IR",
+   "start": "2020-03-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IRM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ISRG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IT",
+   "start": "2017-04-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ITW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "IVZ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "J",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JBHT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JBL",
+   "start": "2023-12-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JCI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JEF",
+   "start": "2016-01-01",
+   "end": "2019-09-26",
+   "left_because": null
+  },
+  {
+   "ticker": "JKHY",
+   "start": "2018-11-13",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JNJ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JNPR",
+   "start": "2016-01-01",
+   "end": "2025-07-09",
+   "left_because": null
+  },
+  {
+   "ticker": "JPM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "JWN",
+   "start": "2016-01-01",
+   "end": "2020-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "K",
+   "start": "2016-01-01",
+   "end": "2025-12-11",
+   "left_because": null
+  },
+  {
+   "ticker": "KDP",
+   "start": "2022-06-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KEY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KEYS",
+   "start": "2018-11-06",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KHC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KIM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KKR",
+   "start": "2024-06-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KLAC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KMB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KMI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KMX",
+   "start": "2016-01-01",
+   "end": "2025-10-31",
+   "left_because": null
+  },
+  {
+   "ticker": "KO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "KSS",
+   "start": "2016-01-01",
+   "end": "2020-09-21",
+   "left_because": null
+  },
+  {
+   "ticker": "KSU",
+   "start": "2016-01-01",
+   "end": "2021-12-14",
+   "left_because": null
+  },
+  {
+   "ticker": "KVUE",
+   "start": "2023-08-25",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "L",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LDOS",
+   "start": "2019-08-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LEG",
+   "start": "2016-01-01",
+   "end": "2021-12-20",
+   "left_because": null
+  },
+  {
+   "ticker": "LEN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LHX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LII",
+   "start": "2024-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LIN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LITE",
+   "start": "2026-03-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LKQ",
+   "start": "2016-05-23",
+   "end": "2025-12-22",
+   "left_because": null
+  },
+  {
+   "ticker": "LLL",
+   "start": "2016-01-01",
+   "end": "2019-07-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LLTC",
+   "start": "2016-01-01",
+   "end": "2017-03-13",
+   "left_because": null
+  },
+  {
+   "ticker": "LLY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LM",
+   "start": "2016-01-01",
+   "end": "2016-12-02",
+   "left_because": null
+  },
+  {
+   "ticker": "LMT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LNC",
+   "start": "2016-01-01",
+   "end": "2023-09-18",
+   "left_because": null
+  },
+  {
+   "ticker": "LNT",
+   "start": "2016-07-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LOW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LRCX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LULU",
+   "start": "2023-10-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LUMN",
+   "start": "2016-01-01",
+   "end": "2023-03-20",
+   "left_because": null
+  },
+  {
+   "ticker": "LUV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LVLT",
+   "start": "2016-01-01",
+   "end": "2017-10-13",
+   "left_because": null
+  },
+  {
+   "ticker": "LVS",
+   "start": "2019-10-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LW",
+   "start": "2018-12-03",
+   "end": "2026-03-23",
+   "left_because": null
+  },
+  {
+   "ticker": "LYB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "LYV",
+   "start": "2019-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "M",
+   "start": "2016-01-01",
+   "end": "2020-04-06",
+   "left_because": null
+  },
+  {
+   "ticker": "MA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MAA",
+   "start": "2016-12-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MAC",
+   "start": "2016-01-01",
+   "end": "2019-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "MAR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MAS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MAT",
+   "start": "2016-01-01",
+   "end": "2019-06-07",
+   "left_because": null
+  },
+  {
+   "ticker": "MBC",
+   "start": "2022-12-15",
+   "end": "2022-12-19",
+   "left_because": null
+  },
+  {
+   "ticker": "MCD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MCHP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MCK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MCO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MDLZ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MDT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MET",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "META",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MGM",
+   "start": "2017-07-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MHK",
+   "start": "2016-01-01",
+   "end": "2025-12-22",
+   "left_because": null
+  },
+  {
+   "ticker": "MJN",
+   "start": "2016-01-01",
+   "end": "2017-06-19",
+   "left_because": null
+  },
+  {
+   "ticker": "MKC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MKTX",
+   "start": "2019-07-01",
+   "end": "2025-09-22",
+   "left_because": null
+  },
+  {
+   "ticker": "MLM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MMM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MNK",
+   "start": "2016-01-01",
+   "end": "2017-07-26",
+   "left_because": null
+  },
+  {
+   "ticker": "MNST",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MOH",
+   "start": "2022-03-02",
+   "end": "2026-03-23",
+   "left_because": null
+  },
+  {
+   "ticker": "MON",
+   "start": "2016-01-01",
+   "end": "2018-06-07",
+   "left_because": null
+  },
+  {
+   "ticker": "MOS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MPC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MPWR",
+   "start": "2021-02-12",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MRK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MRNA",
+   "start": "2021-07-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MRO",
+   "start": "2016-01-01",
+   "end": "2024-11-26",
+   "left_because": null
+  },
+  {
+   "ticker": "MRSH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MRVL",
+   "start": "2026-06-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MSCI",
+   "start": "2018-04-04",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MSFT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MSI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MTB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MTCH",
+   "start": "2021-09-20",
+   "end": "2026-03-23",
+   "left_because": null
+  },
+  {
+   "ticker": "MTD",
+   "start": "2016-09-06",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MU",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "MUR",
+   "start": "2016-01-01",
+   "end": "2017-07-26",
+   "left_because": null
+  },
+  {
+   "ticker": "MXIM",
+   "start": "2018-12-03",
+   "end": "2021-08-30",
+   "left_because": null
+  },
+  {
+   "ticker": "NAVI",
+   "start": "2016-01-01",
+   "end": "2018-06-05",
+   "left_because": null
+  },
+  {
+   "ticker": "NBL",
+   "start": "2016-01-01",
+   "end": "2020-10-12",
+   "left_because": null
+  },
+  {
+   "ticker": "NCLH",
+   "start": "2017-10-13",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NDAQ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NDSN",
+   "start": "2022-02-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NEE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NEM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NFLX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NFX",
+   "start": "2016-01-01",
+   "end": "2019-02-15",
+   "left_because": null
+  },
+  {
+   "ticker": "NI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NKE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NKTR",
+   "start": "2018-03-19",
+   "end": "2019-10-03",
+   "left_because": null
+  },
+  {
+   "ticker": "NLSN",
+   "start": "2016-01-01",
+   "end": "2022-10-12",
+   "left_because": null
+  },
+  {
+   "ticker": "NOC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NOV",
+   "start": "2016-01-01",
+   "end": "2021-09-20",
+   "left_because": null
+  },
+  {
+   "ticker": "NOW",
+   "start": "2019-11-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NRG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NSC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NTAP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NTRS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NUE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NVDA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NVR",
+   "start": "2019-09-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NWL",
+   "start": "2016-01-01",
+   "end": "2023-09-18",
+   "left_because": null
+  },
+  {
+   "ticker": "NWS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NWSA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "NXPI",
+   "start": "2021-03-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "O",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ODFL",
+   "start": "2019-12-09",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "OGN",
+   "start": "2021-06-03",
+   "end": "2023-10-18",
+   "left_because": null
+  },
+  {
+   "ticker": "OI",
+   "start": "2016-01-01",
+   "end": "2016-12-02",
+   "left_because": null
+  },
+  {
+   "ticker": "OKE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "OMC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ON",
+   "start": "2022-06-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ORCL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ORLY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "OTIS",
+   "start": "2020-04-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "OXY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PANW",
+   "start": "2023-06-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PAYC",
+   "start": "2020-01-28",
+   "end": "2026-03-23",
+   "left_because": null
+  },
+  {
+   "ticker": "PAYX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PBCT",
+   "start": "2016-01-01",
+   "end": "2022-04-04",
+   "left_because": null
+  },
+  {
+   "ticker": "PBI",
+   "start": "2016-01-01",
+   "end": "2017-03-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PCAR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PCG",
+   "start": "2016-01-01",
+   "end": "2019-01-18",
+   "left_because": null
+  },
+  {
+   "ticker": "PCG",
+   "start": "2022-10-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PCL",
+   "start": "2016-01-01",
+   "end": "2016-02-22",
+   "left_because": null
+  },
+  {
+   "ticker": "PCP",
+   "start": "2016-01-01",
+   "end": "2016-02-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PDCO",
+   "start": "2016-01-01",
+   "end": "2018-03-19",
+   "left_because": null
+  },
+  {
+   "ticker": "PEG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PENN",
+   "start": "2021-03-22",
+   "end": "2022-09-19",
+   "left_because": null
+  },
+  {
+   "ticker": "PEP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PFE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PFG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PGR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PHM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PKG",
+   "start": "2017-07-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PLD",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PLTR",
+   "start": "2024-09-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PNC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PNR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PNW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PODD",
+   "start": "2023-03-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "POM",
+   "start": "2016-01-01",
+   "end": "2016-03-30",
+   "left_because": null
+  },
+  {
+   "ticker": "POOL",
+   "start": "2020-10-07",
+   "end": "2026-06-22",
+   "left_because": null
+  },
+  {
+   "ticker": "PPG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PPL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PRGO",
+   "start": "2016-01-01",
+   "end": "2021-09-20",
+   "left_because": null
+  },
+  {
+   "ticker": "PRU",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PSA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PSKY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PSX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PTC",
+   "start": "2021-04-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PVH",
+   "start": "2016-01-01",
+   "end": "2022-09-19",
+   "left_because": null
+  },
+  {
+   "ticker": "PWR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "PXD",
+   "start": "2016-01-01",
+   "end": "2024-05-08",
+   "left_because": null
+  },
+  {
+   "ticker": "PYPL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "Q",
+   "start": "2017-08-29",
+   "end": "2017-11-15",
+   "left_because": null
+  },
+  {
+   "ticker": "Q",
+   "start": "2025-11-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "QCOM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "QRVO",
+   "start": "2016-01-01",
+   "end": "2024-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "R",
+   "start": "2016-01-01",
+   "end": "2017-06-19",
+   "left_because": null
+  },
+  {
+   "ticker": "RAI",
+   "start": "2016-01-01",
+   "end": "2017-07-26",
+   "left_because": null
+  },
+  {
+   "ticker": "RCL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RDDT",
+   "start": "2026-08-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "REG",
+   "start": "2017-03-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "REGN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RHI",
+   "start": "2016-01-01",
+   "end": "2024-06-24",
+   "left_because": null
+  },
+  {
+   "ticker": "RHT",
+   "start": "2016-01-01",
+   "end": "2019-07-15",
+   "left_because": null
+  },
+  {
+   "ticker": "RIG",
+   "start": "2016-01-01",
+   "end": "2017-07-26",
+   "left_because": null
+  },
+  {
+   "ticker": "RJF",
+   "start": "2017-03-20",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RMD",
+   "start": "2017-07-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ROK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ROL",
+   "start": "2018-10-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ROP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ROST",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RRC",
+   "start": "2016-01-01",
+   "end": "2018-06-18",
+   "left_because": null
+  },
+  {
+   "ticker": "RSG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RTN",
+   "start": "2016-01-01",
+   "end": "2020-04-06",
+   "left_because": null
+  },
+  {
+   "ticker": "RTX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "RVTY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SBAC",
+   "start": "2017-09-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SBNY",
+   "start": "2021-12-20",
+   "end": "2023-03-15",
+   "left_because": null
+  },
+  {
+   "ticker": "SBUX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SCG",
+   "start": "2016-01-01",
+   "end": "2019-01-02",
+   "left_because": null
+  },
+  {
+   "ticker": "SCHW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SE",
+   "start": "2016-01-01",
+   "end": "2017-02-28",
+   "left_because": null
+  },
+  {
+   "ticker": "SEDG",
+   "start": "2021-12-20",
+   "end": "2023-12-18",
+   "left_because": null
+  },
+  {
+   "ticker": "SEE",
+   "start": "2016-01-01",
+   "end": "2023-12-18",
+   "left_because": null
+  },
+  {
+   "ticker": "SHW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SIG",
+   "start": "2016-01-01",
+   "end": "2018-03-19",
+   "left_because": null
+  },
+  {
+   "ticker": "SIVB",
+   "start": "2018-03-19",
+   "end": "2023-03-15",
+   "left_because": null
+  },
+  {
+   "ticker": "SJM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SLB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SLG",
+   "start": "2016-01-01",
+   "end": "2021-03-22",
+   "left_because": null
+  },
+  {
+   "ticker": "SMCI",
+   "start": "2024-03-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SNA",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SNDK",
+   "start": "2016-01-01",
+   "end": "2016-05-13",
+   "left_because": null
+  },
+  {
+   "ticker": "SNDK",
+   "start": "2025-11-28",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SNI",
+   "start": "2016-01-01",
+   "end": "2018-03-07",
+   "left_because": null
+  },
+  {
+   "ticker": "SNPS",
+   "start": "2017-03-16",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SOLS",
+   "start": "2025-10-30",
+   "end": "2025-12-22",
+   "left_because": null
+  },
+  {
+   "ticker": "SOLV",
+   "start": "2024-04-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SPG",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SPGI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SPLS",
+   "start": "2016-01-01",
+   "end": "2017-09-18",
+   "left_because": null
+  },
+  {
+   "ticker": "SRCL",
+   "start": "2016-01-01",
+   "end": "2018-12-03",
+   "left_because": null
+  },
+  {
+   "ticker": "SRE",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "STE",
+   "start": "2019-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "STI",
+   "start": "2016-01-01",
+   "end": "2019-12-09",
+   "left_because": null
+  },
+  {
+   "ticker": "STJ",
+   "start": "2016-01-01",
+   "end": "2017-01-05",
+   "left_because": null
+  },
+  {
+   "ticker": "STLD",
+   "start": "2022-12-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "STT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "STX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "STZ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SWK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SWKS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SWN",
+   "start": "2016-01-01",
+   "end": "2017-04-04",
+   "left_because": null
+  },
+  {
+   "ticker": "SYF",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SYK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "SYY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "T",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TAP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TDC",
+   "start": "2016-01-01",
+   "end": "2017-06-19",
+   "left_because": null
+  },
+  {
+   "ticker": "TDG",
+   "start": "2016-06-03",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TDY",
+   "start": "2020-06-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TE",
+   "start": "2016-01-01",
+   "end": "2016-07-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TECH",
+   "start": "2021-08-30",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TEL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TER",
+   "start": "2020-09-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TFC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TFX",
+   "start": "2019-01-18",
+   "end": "2025-03-24",
+   "left_because": null
+  },
+  {
+   "ticker": "TGNA",
+   "start": "2016-01-01",
+   "end": "2017-06-02",
+   "left_because": null
+  },
+  {
+   "ticker": "TGT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "THC",
+   "start": "2016-01-01",
+   "end": "2016-04-18",
+   "left_because": null
+  },
+  {
+   "ticker": "TIF",
+   "start": "2016-01-01",
+   "end": "2021-01-07",
+   "left_because": null
+  },
+  {
+   "ticker": "TJX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TKO",
+   "start": "2025-03-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TMO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TMUS",
+   "start": "2019-07-15",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TPL",
+   "start": "2024-11-26",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TPR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TRGP",
+   "start": "2022-10-12",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TRIP",
+   "start": "2016-01-01",
+   "end": "2019-12-23",
+   "left_because": null
+  },
+  {
+   "ticker": "TRMB",
+   "start": "2021-01-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TROW",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TRV",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TSCO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TSLA",
+   "start": "2020-12-21",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TSN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TSS",
+   "start": "2016-01-01",
+   "end": "2019-09-23",
+   "left_because": null
+  },
+  {
+   "ticker": "TT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TTD",
+   "start": "2025-07-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TTWO",
+   "start": "2018-03-19",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TWC",
+   "start": "2016-01-01",
+   "end": "2016-05-18",
+   "left_because": null
+  },
+  {
+   "ticker": "TWTR",
+   "start": "2018-06-07",
+   "end": "2022-11-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TWX",
+   "start": "2016-01-01",
+   "end": "2018-06-20",
+   "left_because": null
+  },
+  {
+   "ticker": "TXN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TXT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "TYC",
+   "start": "2016-01-01",
+   "end": "2016-09-06",
+   "left_because": null
+  },
+  {
+   "ticker": "TYL",
+   "start": "2020-06-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UA",
+   "start": "2016-04-08",
+   "end": "2022-06-21",
+   "left_because": null
+  },
+  {
+   "ticker": "UAA",
+   "start": "2016-01-01",
+   "end": "2022-06-21",
+   "left_because": null
+  },
+  {
+   "ticker": "UAL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UBER",
+   "start": "2023-12-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UDR",
+   "start": "2016-03-07",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UHS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ULTA",
+   "start": "2016-04-18",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UNH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UNM",
+   "start": "2016-01-01",
+   "end": "2021-09-20",
+   "left_because": null
+  },
+  {
+   "ticker": "UNP",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "UPS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "URBN",
+   "start": "2016-01-01",
+   "end": "2017-03-20",
+   "left_because": null
+  },
+  {
+   "ticker": "URI",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "USB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "V",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VAR",
+   "start": "2016-01-01",
+   "end": "2021-04-20",
+   "left_because": null
+  },
+  {
+   "ticker": "VEEV",
+   "start": "2026-05-07",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VFC",
+   "start": "2016-01-01",
+   "end": "2024-04-03",
+   "left_because": null
+  },
+  {
+   "ticker": "VIAB",
+   "start": "2016-01-01",
+   "end": "2019-12-05",
+   "left_because": null
+  },
+  {
+   "ticker": "VICI",
+   "start": "2022-06-08",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VLO",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VLTO",
+   "start": "2023-10-02",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VMC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VMRK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VNO",
+   "start": "2016-01-01",
+   "end": "2023-01-05",
+   "left_because": null
+  },
+  {
+   "ticker": "VNT",
+   "start": "2020-10-09",
+   "end": "2021-03-22",
+   "left_because": null
+  },
+  {
+   "ticker": "VRSK",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VRSN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VRT",
+   "start": "2026-03-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VRTX",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VST",
+   "start": "2024-05-08",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VTR",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VTRS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "VZ",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WAB",
+   "start": "2019-02-27",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WAT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WBA",
+   "start": "2016-01-01",
+   "end": "2025-08-28",
+   "left_because": null
+  },
+  {
+   "ticker": "WBD",
+   "start": "2022-04-11",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WCG",
+   "start": "2018-09-14",
+   "end": "2020-01-28",
+   "left_because": null
+  },
+  {
+   "ticker": "WDAY",
+   "start": "2024-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WDC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WEC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WELL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WFC",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WFM",
+   "start": "2016-01-01",
+   "end": "2017-08-29",
+   "left_because": null
+  },
+  {
+   "ticker": "WHR",
+   "start": "2016-01-01",
+   "end": "2024-03-18",
+   "left_because": null
+  },
+  {
+   "ticker": "WLTW",
+   "start": "2016-01-05",
+   "end": "2022-01-10",
+   "left_because": null
+  },
+  {
+   "ticker": "WM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WMB",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WMT",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WRB",
+   "start": "2019-12-05",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WSM",
+   "start": "2025-03-24",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WST",
+   "start": "2020-05-22",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WTW",
+   "start": "2022-01-10",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WU",
+   "start": "2016-01-01",
+   "end": "2021-12-20",
+   "left_because": null
+  },
+  {
+   "ticker": "WY",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "WYN",
+   "start": "2016-01-01",
+   "end": "2018-05-31",
+   "left_because": null
+  },
+  {
+   "ticker": "WYNN",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "XEC",
+   "start": "2016-01-01",
+   "end": "2020-03-02",
+   "left_because": null
+  },
+  {
+   "ticker": "XEL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "XL",
+   "start": "2016-01-01",
+   "end": "2018-09-14",
+   "left_because": null
+  },
+  {
+   "ticker": "XLNX",
+   "start": "2016-01-01",
+   "end": "2022-02-15",
+   "left_because": null
+  },
+  {
+   "ticker": "XOM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "XRAY",
+   "start": "2016-01-01",
+   "end": "2024-04-03",
+   "left_because": null
+  },
+  {
+   "ticker": "XRX",
+   "start": "2016-01-01",
+   "end": "2021-03-22",
+   "left_because": null
+  },
+  {
+   "ticker": "XYL",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "XYZ",
+   "start": "2025-07-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "YHOO",
+   "start": "2016-01-01",
+   "end": "2017-06-19",
+   "left_because": null
+  },
+  {
+   "ticker": "YUM",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ZBH",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ZBRA",
+   "start": "2019-12-23",
+   "end": "2026-09-01",
+   "left_because": null
+  },
+  {
+   "ticker": "ZION",
+   "start": "2016-01-01",
+   "end": "2024-03-18",
+   "left_because": null
+  },
+  {
+   "ticker": "ZTS",
+   "start": "2016-01-01",
+   "end": "2026-09-01",
+   "left_because": null
+  }
+ ]
+}
